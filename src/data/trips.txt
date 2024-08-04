@@ -1,0 +1,1249 @@
+﻿route_id,service_id,trip_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed,duty,duty_sequence_number,run_sequence_number
+101,1,NORMAL_03_101_Return_22:10,Uhud battlefield,,1,101_03,41,,,101_032,24,48
+103,1,NORMAL_03_103_Go_07:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,5,5
+104,1,NORMAL_03_104_Return_21:15,Quba Mosque,,1,104_02,128,,,104_022,22,46
+106,1,NORMAL_03_106_Return_12:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,21,21
+104,1,NORMAL_03_104_Go_12:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,21,21
+101,1,NORMAL_03_101_Go_17:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,11,35
+105,1,NORMAL_03_105_Go_08:15,Uhud battlefield,,1,105_03,130,,,105_031,3,3
+107,1,NORMAL_03_107_Return_15:00,Quba Mosque,,1,107_01,132,,,107_012,5,28
+104,1,NORMAL_03_104_Return_14:20,Quba Mosque,,1,104_01,128,,,104_012,2,26
+105,1,NORMAL_03_105_Return_13:10,Quba Mosque,,1,105_01,129,,,105_011,14,14
+103,1,NORMAL_03_103_Return_17:00,Quba Mosque,,1,103_01,126,,,103_012,10,34
+105,1,NORMAL_03_105_Return_10:40,Quba Mosque,,1,105_03,129,,,105_031,8,8
+102,1,NORMAL_03_102_Go_17:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,11,35
+106,1,NORMAL_03_106_Go_19:45,Railway Station,,0,106_04,51,,,106_042,16,40
+101,1,NORMAL_03_101_Return_17:45,Uhud battlefield,,1,101_04,41,,,101_042,10,34
+101,1,NORMAL_03_101_Go_16:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,7,31
+101,1,NORMAL_03_101_Go_07:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,5,5
+104,1,NORMAL_03_104_Return_08:35,Quba Mosque,,1,104_02,128,,,104_021,8,8
+105,1,NORMAL_03_105_Go_21:00,Uhud battlefield,,1,105_02,130,,,105_022,13,29
+106,1,NORMAL_03_106_Go_15:40,Railway Station,,0,106_01,51,,,106_012,6,30
+107,1,NORMAL_03_107_Return_19:40,Quba Mosque,,1,107_01,132,,,107_012,19,42
+106,1,NORMAL_03_106_Go_17:05,Railway Station,,0,106_04,51,,,106_042,8,32
+105,1,NORMAL_03_105_Return_11:25,Quba Mosque,,1,105_02,129,,,105_021,10,10
+103,1,NORMAL_03_103_Go_19:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,17,41
+102,1,NORMAL_03_102_Go_17:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,11,35
+101,1,NORMAL_03_101_Return_16:50,Uhud battlefield,,1,101_03,41,,,101_032,8,32
+101,1,NORMAL_03_101_Go_12:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,17,17
+103,1,NORMAL_03_103_Return_14:20,Quba Mosque,,1,103_01,126,,,103_012,2,26
+103,1,NORMAL_03_103_Go_14:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,23,23
+103,1,NORMAL_03_103_Go_16:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,9,33
+102,1,NORMAL_03_102_Go_18:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,13,37
+102,1,NORMAL_03_102_Go_06:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,1,1
+106,1,NORMAL_03_106_Return_14:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,3,27
+106,1,NORMAL_03_106_Go_17:30,Railway Station,,0,106_03,51,,,106_032,10,34
+106,1,NORMAL_03_106_Return_11:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,15,15
+104,1,NORMAL_03_104_Go_11:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,15,15
+104,1,NORMAL_03_104_Return_15:55,Quba Mosque,,1,104_02,128,,,104_022,6,30
+107,1,NORMAL_03_107_Return_16:10,Quba Mosque,,1,107_03,132,,,107_032,6,30
+104,1,NORMAL_03_104_Go_18:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,13,37
+107,1,NORMAL_03_107_Return_20:50,Quba Mosque,,1,107_03,132,,,107_032,20,44
+101,1,NORMAL_03_101_Return_17:05,Uhud battlefield,,1,101_04,41,,,101_042,8,32
+101,1,NORMAL_03_101_Return_11:30,Uhud battlefield,,1,101_03,41,,,101_031,16,16
+102,1,NORMAL_03_102_Return_20:25,Quba Mosque,,1,102_04,124,,,102_042,18,42
+106,1,NORMAL_03_106_Go_08:10,Railway Station,,0,106_03,51,,,106_031,6,6
+101,1,NORMAL_03_101_Go_18:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,11,35
+103,1,NORMAL_03_103_Go_20:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,21,45
+107,1,NORMAL_03_107_Return_18:25,Quba Mosque,,1,107_04,132,,,107_042,12,36
+105,1,NORMAL_03_105_Go_10:00,Uhud battlefield,,1,105_02,130,,,105_021,7,7
+105,1,NORMAL_03_105_Go_07:15,Uhud battlefield,,1,105_03,130,,,105_031,1,1
+103,1,NORMAL_03_103_Return_10:35,Quba Mosque,,1,103_02,126,,,103_021,14,14
+102,1,NORMAL_03_102_Return_07:30,Quba Mosque,,1,102_03,124,,,102_031,4,4
+102,1,NORMAL_03_102_Return_09:00,Quba Mosque,,1,102_01,124,,,102_011,10,10
+101,1,NORMAL_03_101_Go_18:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,13,37
+107,1,NORMAL_03_107_Return_14:35,Quba Mosque,,1,107_02,132,,,107_022,2,26
+102,1,NORMAL_03_102_Return_10:50,Quba Mosque,,1,102_03,124,,,102_031,14,14
+104,1,NORMAL_03_104_Return_22:25,Quba Mosque,,1,104_04,128,,,104_042,24,48
+102,1,NORMAL_03_102_Go_21:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,23,47
+107,1,NORMAL_03_107_Return_08:50,Quba Mosque,,1,107_03,132,,,107_031,8,8
+107,1,NORMAL_03_107_Return_13:05,Quba Mosque,,1,107_04,132,,,107_041,20,20
+106,1,NORMAL_03_106_Go_09:55,Railway Station,,0,106_02,51,,,106_021,12,12
+103,1,NORMAL_03_103_Go_08:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,7,7
+103,1,NORMAL_03_103_Go_14:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,1,25
+102,1,NORMAL_03_102_Return_09:30,Quba Mosque,,1,102_03,124,,,102_031,10,10
+106,1,NORMAL_03_106_Go_11:30,Railway Station,,0,106_03,51,,,106_031,16,16
+103,1,NORMAL_03_103_Return_19:15,Quba Mosque,,1,103_02,126,,,103_022,16,40
+106,1,NORMAL_03_106_Return_17:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,9,33
+104,1,NORMAL_03_104_Go_10:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,11,11
+107,1,NORMAL_03_107_Go_12:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,19,19
+103,1,NORMAL_03_103_Go_17:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,11,35
+104,1,NORMAL_03_104_Return_12:20,Quba Mosque,,1,104_01,128,,,104_011,20,20
+106,1,NORMAL_03_106_Return_06:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,1,1
+107,1,NORMAL_03_107_Go_16:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,7,31
+102,1,NORMAL_03_102_Return_18:10,Quba Mosque,,1,102_03,124,,,102_032,12,36
+104,1,NORMAL_03_104_Go_13:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,21,21
+103,1,NORMAL_03_103_Return_09:05,Quba Mosque,,1,103_04,126,,,103_041,8,8
+102,1,NORMAL_03_102_Go_18:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,11,35
+104,1,NORMAL_03_104_Go_07:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,5,5
+105,1,NORMAL_03_105_Return_18:40,Quba Mosque,,1,105_03,129,,,105_032,8,24
+101,1,NORMAL_03_101_Return_19:30,Uhud battlefield,,1,101_03,41,,,101_032,16,40
+102,1,NORMAL_03_102_Go_21:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,21,45
+104,1,NORMAL_03_104_Go_16:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,5,29
+102,1,NORMAL_03_102_Return_12:25,Quba Mosque,,1,102_04,124,,,102_041,18,18
+105,1,NORMAL_03_105_Go_14:15,Uhud battlefield,,1,105_03,130,,,105_031,15,15
+104,1,NORMAL_03_104_Go_16:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,7,31
+102,1,NORMAL_03_102_Return_11:55,Quba Mosque,,1,102_02,124,,,102_021,18,18
+102,1,NORMAL_03_102_Go_11:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,15,15
+102,1,NORMAL_03_102_Return_08:20,Quba Mosque,,1,102_01,124,,,102_011,8,8
+103,1,NORMAL_03_103_Return_11:40,Quba Mosque,,1,103_01,126,,,103_011,18,18
+103,1,NORMAL_03_103_Go_08:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,7,7
+106,1,NORMAL_03_106_Go_19:40,Railway Station,,0,106_01,51,,,106_012,18,42
+107,1,NORMAL_03_107_Return_20:35,Quba Mosque,,1,107_02,132,,,107_022,20,44
+101,1,NORMAL_03_101_Return_15:05,Uhud battlefield,,1,101_04,41,,,101_042,2,26
+107,1,NORMAL_03_107_Return_08:25,Quba Mosque,,1,107_04,132,,,107_041,6,6
+104,1,NORMAL_03_104_Return_21:05,Quba Mosque,,1,104_04,128,,,104_042,20,44
+104,1,NORMAL_03_104_Go_08:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,9,9
+102,1,NORMAL_03_102_Go_20:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,21,45
+101,1,NORMAL_03_101_Return_15:30,Uhud battlefield,,1,101_03,41,,,101_032,4,28
+102,1,NORMAL_03_102_Return_12:50,Quba Mosque,,1,102_03,124,,,102_031,20,20
+103,1,NORMAL_03_103_Go_10:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,13,13
+103,1,NORMAL_03_103_Go_08:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,9,9
+107,1,NORMAL_03_107_Return_19:55,Quba Mosque,,1,107_02,132,,,107_022,18,42
+107,1,NORMAL_03_107_Go_09:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,9,9
+102,1,NORMAL_03_102_Return_07:55,Quba Mosque,,1,102_02,124,,,102_021,6,6
+102,1,NORMAL_03_102_Return_10:35,Quba Mosque,,1,102_02,124,,,102_021,14,14
+107,1,NORMAL_03_107_Return_10:10,Quba Mosque,,1,107_03,132,,,107_031,12,12
+101,1,NORMAL_03_101_Return_20:50,Uhud battlefield,,1,101_03,41,,,101_032,20,44
+104,1,NORMAL_03_104_Return_13:45,Quba Mosque,,1,104_04,128,,,104_041,22,22
+107,1,NORMAL_03_107_Go_15:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,5,29
+102,1,NORMAL_03_102_Return_14:35,Quba Mosque,,1,102_02,124,,,102_022,2,26
+106,1,NORMAL_03_106_Return_06:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,1,1
+107,1,NORMAL_03_107_Return_13:55,Quba Mosque,,1,107_02,132,,,107_021,24,24
+101,1,NORMAL_03_101_Go_20:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,21,45
+101,1,NORMAL_03_101_Return_17:55,Uhud battlefield,,1,101_02,41,,,101_022,12,36
+104,1,NORMAL_03_104_Go_20:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,21,45
+103,1,NORMAL_03_103_Return_16:50,Quba Mosque,,1,103_03,126,,,103_032,8,32
+101,1,NORMAL_03_101_Return_19:55,Uhud battlefield,,1,101_02,41,,,101_022,18,42
+107,1,NORMAL_03_107_Go_08:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,9,9
+106,1,NORMAL_03_106_Go_18:10,Railway Station,,0,106_03,51,,,106_032,12,36
+107,1,NORMAL_03_107_Go_09:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,11,11
+107,1,NORMAL_03_107_Return_21:40,Quba Mosque,,1,107_01,132,,,107_012,25,48
+103,1,NORMAL_03_103_Go_22:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,23,47
+104,1,NORMAL_03_104_Go_20:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,21,45
+106,1,NORMAL_03_106_Go_20:20,Railway Station,,0,106_01,51,,,106_012,20,44
+103,1,NORMAL_03_103_Go_18:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,15,39
+102,1,NORMAL_03_102_Go_11:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,15,15
+103,1,NORMAL_03_103_Go_09:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,11,11
+101,1,NORMAL_03_101_Go_07:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,5,5
+104,1,NORMAL_03_104_Go_19:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,15,39
+106,1,NORMAL_03_106_Go_19:05,Railway Station,,0,106_04,51,,,106_042,14,38
+105,1,NORMAL_03_105_Go_16:00,Uhud battlefield,,1,105_02,130,,,105_022,3,19
+102,1,NORMAL_03_102_Return_20:50,Quba Mosque,,1,102_03,124,,,102_032,20,44
+101,1,NORMAL_03_101_Go_20:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,19,43
+101,1,NORMAL_03_101_Return_21:45,Uhud battlefield,,1,101_04,41,,,101_042,22,46
+102,1,NORMAL_03_102_Go_15:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,3,27
+106,1,NORMAL_03_106_Return_08:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,9,9
+105,1,NORMAL_03_105_Return_15:10,Quba Mosque,,1,105_01,129,,,105_012,2,18
+101,1,NORMAL_03_101_Go_18:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,13,37
+101,1,NORMAL_03_101_Go_16:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,5,29
+106,1,NORMAL_03_106_Return_11:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,17,17
+103,1,NORMAL_03_103_Return_11:45,Quba Mosque,,1,103_04,126,,,103_041,16,16
+103,1,NORMAL_03_103_Go_09:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,9,9
+106,1,NORMAL_03_106_Go_12:10,Railway Station,,0,106_03,51,,,106_031,18,18
+103,1,NORMAL_03_103_Return_20:20,Quba Mosque,,1,103_01,126,,,103_012,20,44
+102,1,NORMAL_03_102_Go_16:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,9,33
+107,1,NORMAL_03_107_Go_11:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,15,15
+105,1,NORMAL_03_105_Return_08:40,Quba Mosque,,1,105_03,129,,,105_031,4,4
+103,1,NORMAL_03_103_Go_20:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,19,43
+106,1,NORMAL_03_106_Return_22:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,23,47
+102,1,NORMAL_03_102_Go_20:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,19,43
+105,1,NORMAL_03_105_Return_08:10,Quba Mosque,,1,105_01,129,,,105_011,4,4
+105,1,NORMAL_03_105_Return_16:25,Quba Mosque,,1,105_02,129,,,105_022,4,20
+107,1,NORMAL_03_107_Return_21:05,Quba Mosque,,1,107_04,132,,,107_042,20,44
+104,1,NORMAL_03_104_Go_09:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,9,9
+105,1,NORMAL_03_105_Go_17:00,Uhud battlefield,,1,105_02,130,,,105_022,5,21
+104,1,NORMAL_03_104_Go_16:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,7,31
+102,1,NORMAL_03_102_Return_17:40,Quba Mosque,,1,102_01,124,,,102_012,12,36
+107,1,NORMAL_03_107_Go_12:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,19,19
+106,1,NORMAL_03_106_Go_14:50,Railway Station,,0,106_03,51,,,106_032,2,26
+102,1,NORMAL_03_102_Return_18:25,Quba Mosque,,1,102_04,124,,,102_042,12,36
+107,1,NORMAL_03_107_Return_13:15,Quba Mosque,,1,107_02,132,,,107_021,22,22
+101,1,NORMAL_03_101_Return_21:30,Uhud battlefield,,1,101_03,41,,,101_032,22,46
+105,1,NORMAL_03_105_Go_07:00,Uhud battlefield,,1,105_02,130,,,105_021,1,1
+104,1,NORMAL_03_104_Return_17:40,Quba Mosque,,1,104_01,128,,,104_012,12,36
+107,1,NORMAL_03_107_Go_19:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,18,41
+107,1,NORMAL_03_107_Return_19:30,Quba Mosque,,1,107_03,132,,,107_032,16,40
+106,1,NORMAL_03_106_Go_21:55,Railway Station,,0,106_02,51,,,106_022,24,48
+104,1,NORMAL_03_104_Return_19:05,Quba Mosque,,1,104_04,128,,,104_042,14,38
+102,1,NORMAL_03_102_Return_19:45,Quba Mosque,,1,102_04,124,,,102_042,16,40
+106,1,NORMAL_03_106_Return_15:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,3,27
+106,1,NORMAL_03_106_Return_18:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,13,37
+101,1,NORMAL_03_101_Return_16:20,Uhud battlefield,,1,101_01,41,,,101_012,8,32
+106,1,NORMAL_03_106_Return_19:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,15,39
+106,1,NORMAL_03_106_Go_21:05,Railway Station,,0,106_04,51,,,106_042,20,44
+101,1,NORMAL_03_101_Go_07:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,3,3
+103,1,NORMAL_03_103_Return_15:30,Quba Mosque,,1,103_03,126,,,103_032,4,28
+103,1,NORMAL_03_103_Go_12:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,19,19
+106,1,NORMAL_03_106_Return_21:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,23,47
+104,1,NORMAL_03_104_Return_08:10,Quba Mosque,,1,104_03,128,,,104_031,6,6
+104,1,NORMAL_03_104_Go_08:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,7,7
+104,1,NORMAL_03_104_Return_17:30,Quba Mosque,,1,104_03,128,,,104_032,10,34
+107,1,NORMAL_03_107_Go_13:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,21,21
+101,1,NORMAL_03_101_Go_13:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,23,23
+102,1,NORMAL_03_102_Return_08:50,Quba Mosque,,1,102_03,124,,,102_031,8,8
+103,1,NORMAL_03_103_Return_12:50,Quba Mosque,,1,103_03,126,,,103_031,20,20
+107,1,NORMAL_03_107_Go_21:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,21,45
+104,1,NORMAL_03_104_Go_11:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,17,17
+104,1,NORMAL_03_104_Return_14:10,Quba Mosque,,1,104_03,128,,,104_031,24,24
+106,1,NORMAL_03_106_Go_07:40,Railway Station,,0,106_01,51,,,106_011,6,6
+103,1,NORMAL_03_103_Return_06:35,Quba Mosque,,1,103_02,126,,,103_021,2,2
+104,1,NORMAL_03_104_Return_19:55,Quba Mosque,,1,104_02,128,,,104_022,18,42
+103,1,NORMAL_03_103_Return_11:05,Quba Mosque,,1,103_04,126,,,103_041,14,14
+104,1,NORMAL_03_104_Go_11:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,15,15
+103,1,NORMAL_03_103_Return_16:35,Quba Mosque,,1,103_02,126,,,103_022,8,32
+104,1,NORMAL_03_104_Go_12:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,17,17
+104,1,NORMAL_03_104_Go_09:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,9,9
+107,1,NORMAL_03_107_Go_18:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,13,37
+105,1,NORMAL_03_105_Return_21:40,Quba Mosque,,1,105_03,129,,,105_032,14,30
+102,1,NORMAL_03_102_Go_08:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,7,7
+106,1,NORMAL_03_106_Return_09:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,9,9
+106,1,NORMAL_03_106_Return_12:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,21,21
+107,1,NORMAL_03_107_Go_15:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,3,27
+105,1,NORMAL_03_105_Go_13:15,Uhud battlefield,,1,105_03,130,,,105_031,13,13
+101,1,NORMAL_03_101_Return_11:05,Uhud battlefield,,1,101_04,41,,,101_041,14,14
+103,1,NORMAL_03_103_Return_16:25,Quba Mosque,,1,103_04,126,,,103_042,6,30
+103,1,NORMAL_03_103_Go_10:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,15,15
+103,1,NORMAL_03_103_Go_17:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,9,33
+101,1,NORMAL_03_101_Return_06:20,Uhud battlefield,,1,101_01,41,,,101_011,2,2
+103,1,NORMAL_03_103_Return_07:30,Quba Mosque,,1,103_03,126,,,103_031,4,4
+101,1,NORMAL_03_101_Go_10:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,15,15
+101,1,NORMAL_03_101_Return_13:55,Uhud battlefield,,1,101_02,41,,,101_021,24,24
+103,1,NORMAL_03_103_Go_20:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,19,43
+106,1,NORMAL_03_106_Return_17:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,11,35
+105,1,NORMAL_03_105_Return_16:40,Quba Mosque,,1,105_03,129,,,105_032,4,20
+107,1,NORMAL_03_107_Go_19:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,17,41
+102,1,NORMAL_03_102_Go_20:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,17,41
+104,1,NORMAL_03_104_Go_14:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,1,25
+102,1,NORMAL_03_102_Return_13:00,Quba Mosque,,1,102_01,124,,,102_011,22,22
+103,1,NORMAL_03_103_Return_18:20,Quba Mosque,,1,103_01,126,,,103_012,14,38
+101,1,NORMAL_03_101_Return_14:25,Uhud battlefield,,1,101_04,41,,,101_041,24,24
+103,1,NORMAL_03_103_Return_11:30,Quba Mosque,,1,103_03,126,,,103_031,16,16
+102,1,NORMAL_03_102_Go_12:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,21,21
+106,1,NORMAL_03_106_Return_19:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,17,41
+104,1,NORMAL_03_104_Go_14:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,1,25
+106,1,NORMAL_03_106_Return_07:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,3,3
+101,1,NORMAL_03_101_Return_16:35,Uhud battlefield,,1,101_02,41,,,101_022,8,32
+101,1,NORMAL_03_101_Return_10:10,Uhud battlefield,,1,101_03,41,,,101_031,12,12
+104,1,NORMAL_03_104_Go_08:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,7,7
+105,1,NORMAL_03_105_Return_12:40,Quba Mosque,,1,105_03,129,,,105_031,12,12
+104,1,NORMAL_03_104_Return_11:30,Quba Mosque,,1,104_03,128,,,104_031,16,16
+106,1,NORMAL_03_106_Go_11:45,Railway Station,,0,106_04,51,,,106_041,16,16
+106,1,NORMAL_03_106_Go_16:20,Railway Station,,0,106_01,51,,,106_012,8,32
+106,1,NORMAL_03_106_Return_20:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,21,45
+102,1,NORMAL_03_102_Go_12:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,19,19
+105,1,NORMAL_03_105_Go_12:45,Uhud battlefield,,1,105_01,130,,,105_011,13,13
+106,1,NORMAL_03_106_Go_22:25,Railway Station,,0,106_04,51,,,106_042,24,48
+101,1,NORMAL_03_101_Return_08:50,Uhud battlefield,,1,101_03,41,,,101_031,8,8
+105,1,NORMAL_03_105_Return_21:10,Quba Mosque,,1,105_01,129,,,105_012,14,30
+107,1,NORMAL_03_107_Go_17:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,11,35
+101,1,NORMAL_03_101_Go_16:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,7,31
+106,1,NORMAL_03_106_Go_20:50,Railway Station,,0,106_03,51,,,106_032,20,44
+102,1,NORMAL_03_102_Return_15:55,Quba Mosque,,1,102_02,124,,,102_022,6,30
+107,1,NORMAL_03_107_Go_20:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,17,41
+103,1,NORMAL_03_103_Return_17:45,Quba Mosque,,1,103_04,126,,,103_042,10,34
+104,1,NORMAL_03_104_Return_20:25,Quba Mosque,,1,104_04,128,,,104_042,18,42
+107,1,NORMAL_03_107_Return_16:20,Quba Mosque,,1,107_01,132,,,107_012,9,32
+106,1,NORMAL_03_106_Return_10:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,15,15
+103,1,NORMAL_03_103_Return_13:40,Quba Mosque,,1,103_01,126,,,103_011,24,24
+103,1,NORMAL_03_103_Go_08:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,5,5
+101,1,NORMAL_03_101_Go_17:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,11,35
+107,1,NORMAL_03_107_Go_06:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,1,1
+104,1,NORMAL_03_104_Return_19:15,Quba Mosque,,1,104_02,128,,,104_022,16,40
+104,1,NORMAL_03_104_Go_13:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,21,21
+103,1,NORMAL_03_103_Go_21:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,21,45
+104,1,NORMAL_03_104_Return_09:55,Quba Mosque,,1,104_02,128,,,104_021,12,12
+104,1,NORMAL_03_104_Return_21:40,Quba Mosque,,1,104_01,128,,,104_012,24,48
+103,1,NORMAL_03_103_Go_12:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,19,19
+104,1,NORMAL_03_104_Return_18:10,Quba Mosque,,1,104_03,128,,,104_032,12,36
+107,1,NORMAL_03_107_Return_11:40,Quba Mosque,,1,107_01,132,,,107_011,18,18
+103,1,NORMAL_03_103_Return_15:05,Quba Mosque,,1,103_04,126,,,103_042,2,26
+107,1,NORMAL_03_107_Go_10:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,11,11
+104,1,NORMAL_03_104_Go_09:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,11,11
+103,1,NORMAL_03_103_Return_18:10,Quba Mosque,,1,103_03,126,,,103_032,12,36
+106,1,NORMAL_03_106_Return_07:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,3,3
+101,1,NORMAL_03_101_Return_15:45,Uhud battlefield,,1,101_04,41,,,101_042,4,28
+107,1,NORMAL_03_107_Return_10:50,Quba Mosque,,1,107_03,132,,,107_031,14,14
+103,1,NORMAL_03_103_Go_18:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,11,35
+102,1,NORMAL_03_102_Return_09:05,Quba Mosque,,1,102_04,124,,,102_041,8,8
+102,1,NORMAL_03_102_Return_08:25,Quba Mosque,,1,102_04,124,,,102_041,6,6
+105,1,NORMAL_03_105_Go_13:45,Uhud battlefield,,1,105_01,130,,,105_011,15,15
+106,1,NORMAL_03_106_Go_06:35,Railway Station,,0,106_02,51,,,106_021,2,2
+107,1,NORMAL_03_107_Return_07:55,Quba Mosque,,1,107_02,132,,,107_021,6,6
+106,1,NORMAL_03_106_Return_15:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,3,27
+105,1,NORMAL_03_105_Go_13:00,Uhud battlefield,,1,105_02,130,,,105_021,13,13
+106,1,NORMAL_03_106_Return_10:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,13,13
+101,1,NORMAL_03_101_Go_17:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,11,35
+101,1,NORMAL_03_101_Return_21:15,Uhud battlefield,,1,101_02,41,,,101_022,22,46
+106,1,NORMAL_03_106_Return_15:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,5,29
+102,1,NORMAL_03_102_Go_09:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,9,9
+106,1,NORMAL_03_106_Go_17:55,Railway Station,,0,106_02,51,,,106_022,12,36
+101,1,NORMAL_03_101_Return_10:25,Uhud battlefield,,1,101_04,41,,,101_041,12,12
+101,1,NORMAL_03_101_Return_20:35,Uhud battlefield,,1,101_02,41,,,101_022,20,44
+106,1,NORMAL_03_106_Return_17:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,11,35
+102,1,NORMAL_03_102_Return_09:40,Quba Mosque,,1,102_01,124,,,102_011,12,12
+104,1,NORMAL_03_104_Go_15:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,5,29
+103,1,NORMAL_03_103_Go_10:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,13,13
+101,1,NORMAL_03_101_Go_11:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,17,17
+101,1,NORMAL_03_101_Return_18:25,Uhud battlefield,,1,101_04,41,,,101_042,12,36
+101,1,NORMAL_03_101_Return_19:05,Uhud battlefield,,1,101_04,41,,,101_042,14,38
+103,1,NORMAL_03_103_Return_21:40,Quba Mosque,,1,103_01,126,,,103_012,24,48
+104,1,NORMAL_03_104_Return_20:10,Quba Mosque,,1,104_03,128,,,104_032,18,42
+106,1,NORMAL_03_106_Go_09:15,Railway Station,,0,106_02,51,,,106_021,10,10
+104,1,NORMAL_03_104_Return_14:50,Quba Mosque,,1,104_03,128,,,104_032,2,26
+101,1,NORMAL_03_101_Go_13:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,23,23
+105,1,NORMAL_03_105_Go_17:15,Uhud battlefield,,1,105_03,130,,,105_032,5,21
+102,1,NORMAL_03_102_Return_17:00,Quba Mosque,,1,102_01,124,,,102_012,10,34
+101,1,NORMAL_03_101_Go_18:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,15,39
+107,1,NORMAL_03_107_Go_11:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,17,17
+102,1,NORMAL_03_102_Return_19:05,Quba Mosque,,1,102_04,124,,,102_042,14,38
+106,1,NORMAL_03_106_Go_10:35,Railway Station,,0,106_02,51,,,106_021,14,14
+107,1,NORMAL_03_107_Return_14:50,Quba Mosque,,1,107_03,132,,,107_032,2,26
+104,1,NORMAL_03_104_Return_17:55,Quba Mosque,,1,104_02,128,,,104_022,12,36
+107,1,NORMAL_03_107_Go_15:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,6,29
+107,1,NORMAL_03_107_Return_17:30,Quba Mosque,,1,107_03,132,,,107_032,10,34
+102,1,NORMAL_03_102_Return_15:30,Quba Mosque,,1,102_03,124,,,102_032,4,28
+102,1,NORMAL_03_102_Go_22:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,23,47
+104,1,NORMAL_03_104_Go_10:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,13,13
+101,1,NORMAL_03_101_Go_10:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,13,13
+107,1,NORMAL_03_107_Return_10:35,Quba Mosque,,1,107_02,132,,,107_021,14,14
+103,1,NORMAL_03_103_Go_08:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,9,9
+105,1,NORMAL_03_105_Return_19:10,Quba Mosque,,1,105_01,129,,,105_012,10,26
+107,1,NORMAL_03_107_Return_12:20,Quba Mosque,,1,107_01,132,,,107_011,20,20
+107,1,NORMAL_03_107_Go_16:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,7,31
+101,1,NORMAL_03_101_Go_11:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,15,15
+105,1,NORMAL_03_105_Go_09:45,Uhud battlefield,,1,105_01,130,,,105_011,7,7
+107,1,NORMAL_03_107_Go_20:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,22,45
+107,1,NORMAL_03_107_Return_14:20,Quba Mosque,,1,107_01,132,,,107_012,3,26
+103,1,NORMAL_03_103_Return_09:00,Quba Mosque,,1,103_01,126,,,103_011,10,10
+101,1,NORMAL_03_101_Return_21:55,Uhud battlefield,,1,101_02,41,,,101_022,24,48
+106,1,NORMAL_03_106_Return_09:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,11,11
+106,1,NORMAL_03_106_Return_10:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,11,11
+103,1,NORMAL_03_103_Go_07:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,5,5
+104,1,NORMAL_03_104_Return_11:05,Quba Mosque,,1,104_04,128,,,104_041,14,14
+102,1,NORMAL_03_102_Go_11:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,17,17
+101,1,NORMAL_03_101_Go_06:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,1,1
+101,1,NORMAL_03_101_Go_08:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,7,7
+107,1,NORMAL_03_107_Go_17:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,9,33
+102,1,NORMAL_03_102_Return_17:05,Quba Mosque,,1,102_04,124,,,102_042,8,32
+104,1,NORMAL_03_104_Go_15:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,5,29
+104,1,NORMAL_03_104_Return_10:35,Quba Mosque,,1,104_02,128,,,104_021,14,14
+102,1,NORMAL_03_102_Go_08:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,9,9
+101,1,NORMAL_03_101_Go_15:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,5,29
+104,1,NORMAL_03_104_Go_20:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,19,43
+106,1,NORMAL_03_106_Go_11:55,Railway Station,,0,106_02,51,,,106_021,18,18
+102,1,NORMAL_03_102_Go_14:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,1,25
+103,1,NORMAL_03_103_Return_17:05,Quba Mosque,,1,103_04,126,,,103_042,8,32
+104,1,NORMAL_03_104_Go_08:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,7,7
+107,1,NORMAL_03_107_Go_09:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,9,9
+102,1,NORMAL_03_102_Go_08:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,7,7
+104,1,NORMAL_03_104_Return_15:30,Quba Mosque,,1,104_03,128,,,104_032,4,28
+103,1,NORMAL_03_103_Return_21:30,Quba Mosque,,1,103_03,126,,,103_032,22,46
+102,1,NORMAL_03_102_Go_16:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,7,31
+103,1,NORMAL_03_103_Return_13:00,Quba Mosque,,1,103_01,126,,,103_011,22,22
+105,1,NORMAL_03_105_Return_08:25,Quba Mosque,,1,105_02,129,,,105_021,4,4
+101,1,NORMAL_03_101_Return_13:05,Uhud battlefield,,1,101_04,41,,,101_041,20,20
+106,1,NORMAL_03_106_Go_16:25,Railway Station,,0,106_04,51,,,106_042,6,30
+107,1,NORMAL_03_107_Return_15:30,Quba Mosque,,1,107_03,132,,,107_032,4,28
+104,1,NORMAL_03_104_Go_08:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,5,5
+106,1,NORMAL_03_106_Return_16:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,7,31
+103,1,NORMAL_03_103_Return_19:40,Quba Mosque,,1,103_01,126,,,103_012,18,42
+105,1,NORMAL_03_105_Return_09:10,Quba Mosque,,1,105_01,129,,,105_011,6,6
+107,1,NORMAL_03_107_Return_18:50,Quba Mosque,,1,107_03,132,,,107_032,14,38
+103,1,NORMAL_03_103_Go_16:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,5,29
+101,1,NORMAL_03_101_Go_16:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,9,33
+101,1,NORMAL_03_101_Return_07:45,Uhud battlefield,,1,101_04,41,,,101_041,4,4
+106,1,NORMAL_03_106_Return_08:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,7,7
+104,1,NORMAL_03_104_Go_14:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,23,23
+103,1,NORMAL_03_103_Go_17:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,11,35
+101,1,NORMAL_03_101_Return_07:40,Uhud battlefield,,1,101_01,41,,,101_011,6,6
+103,1,NORMAL_03_103_Go_21:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,21,45
+103,1,NORMAL_03_103_Go_21:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,23,47
+104,1,NORMAL_03_104_Return_07:45,Quba Mosque,,1,104_04,128,,,104_041,4,4
+102,1,NORMAL_03_102_Return_14:50,Quba Mosque,,1,102_03,124,,,102_032,2,26
+104,1,NORMAL_03_104_Go_07:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,3,3
+102,1,NORMAL_03_102_Return_07:15,Quba Mosque,,1,102_02,124,,,102_021,4,4
+104,1,NORMAL_03_104_Go_21:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,21,45
+107,1,NORMAL_03_107_Return_08:20,Quba Mosque,,1,107_01,132,,,107_011,8,8
+103,1,NORMAL_03_103_Return_14:50,Quba Mosque,,1,103_03,126,,,103_032,2,26
+106,1,NORMAL_03_106_Return_18:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,15,39
+101,1,NORMAL_03_101_Go_18:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,15,39
+107,1,NORMAL_03_107_Go_17:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,11,35
+107,1,NORMAL_03_107_Go_17:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,12,35
+107,1,NORMAL_03_107_Go_13:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,23,23
+102,1,NORMAL_03_102_Return_11:30,Quba Mosque,,1,102_03,124,,,102_031,16,16
+101,1,NORMAL_03_101_Return_07:55,Uhud battlefield,,1,101_02,41,,,101_021,6,6
+106,1,NORMAL_03_106_Go_20:10,Railway Station,,0,106_03,51,,,106_032,18,42
+102,1,NORMAL_03_102_Return_14:25,Quba Mosque,,1,102_04,124,,,102_041,24,24
+106,1,NORMAL_03_106_Return_18:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,11,35
+101,1,NORMAL_03_101_Go_14:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,3,27
+101,1,NORMAL_03_101_Return_09:30,Uhud battlefield,,1,101_03,41,,,101_031,10,10
+101,1,NORMAL_03_101_Return_19:40,Uhud battlefield,,1,101_01,41,,,101_012,18,42
+105,1,NORMAL_03_105_Return_12:25,Quba Mosque,,1,105_02,129,,,105_021,12,12
+104,1,NORMAL_03_104_Go_10:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,15,15
+102,1,NORMAL_03_102_Return_10:20,Quba Mosque,,1,102_01,124,,,102_011,14,14
+101,1,NORMAL_03_101_Go_10:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,13,13
+103,1,NORMAL_03_103_Go_07:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,5,5
+104,1,NORMAL_03_104_Return_11:00,Quba Mosque,,1,104_01,128,,,104_011,16,16
+106,1,NORMAL_03_106_Return_13:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,21,21
+105,1,NORMAL_03_105_Go_17:45,Uhud battlefield,,1,105_01,130,,,105_012,7,23
+106,1,NORMAL_03_106_Return_08:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,7,7
+103,1,NORMAL_03_103_Return_10:25,Quba Mosque,,1,103_04,126,,,103_041,12,12
+104,1,NORMAL_03_104_Go_18:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,13,37
+101,1,NORMAL_03_101_Go_12:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,21,21
+102,1,NORMAL_03_102_Return_16:25,Quba Mosque,,1,102_04,124,,,102_042,6,30
+107,1,NORMAL_03_107_Return_12:25,Quba Mosque,,1,107_04,132,,,107_041,18,18
+106,1,NORMAL_03_106_Return_16:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,5,29
+103,1,NORMAL_03_103_Go_06:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,1,1
+107,1,NORMAL_03_107_Return_21:55,Quba Mosque,,1,107_02,132,,,107_022,24,48
+104,1,NORMAL_03_104_Go_19:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,15,39
+105,1,NORMAL_03_105_Go_11:15,Uhud battlefield,,1,105_03,130,,,105_031,9,9
+103,1,NORMAL_03_103_Go_13:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,23,23
+103,1,NORMAL_03_103_Return_14:10,Quba Mosque,,1,103_03,126,,,103_031,24,24
+106,1,NORMAL_03_106_Go_16:10,Railway Station,,0,106_03,51,,,106_032,6,30
+104,1,NORMAL_03_104_Go_09:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,11,11
+105,1,NORMAL_03_105_Go_18:00,Uhud battlefield,,1,105_02,130,,,105_022,7,23
+101,1,NORMAL_03_101_Go_19:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,17,41
+107,1,NORMAL_03_107_Return_11:15,Quba Mosque,,1,107_02,132,,,107_021,16,16
+106,1,NORMAL_03_106_Return_06:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,1,1
+101,1,NORMAL_03_101_Go_09:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,11,11
+107,1,NORMAL_03_107_Go_13:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,21,21
+107,1,NORMAL_03_107_Go_12:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,21,21
+102,1,NORMAL_03_102_Go_14:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,1,25
+106,1,NORMAL_03_106_Go_10:50,Railway Station,,0,106_03,51,,,106_031,14,14
+102,1,NORMAL_03_102_Return_10:25,Quba Mosque,,1,102_04,124,,,102_041,12,12
+103,1,NORMAL_03_103_Return_09:15,Quba Mosque,,1,103_02,126,,,103_021,10,10
+101,1,NORMAL_03_101_Return_11:00,Uhud battlefield,,1,101_01,41,,,101_011,16,16
+101,1,NORMAL_03_101_Return_13:15,Uhud battlefield,,1,101_02,41,,,101_021,22,22
+106,1,NORMAL_03_106_Return_21:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,21,45
+101,1,NORMAL_03_101_Return_08:20,Uhud battlefield,,1,101_01,41,,,101_011,8,8
+102,1,NORMAL_03_102_Go_17:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,9,33
+104,1,NORMAL_03_104_Go_18:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,13,37
+101,1,NORMAL_03_101_Return_16:25,Uhud battlefield,,1,101_04,41,,,101_042,6,30
+106,1,NORMAL_03_106_Return_14:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,1,25
+101,1,NORMAL_03_101_Go_09:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,9,9
+102,1,NORMAL_03_102_Go_09:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,11,11
+104,1,NORMAL_03_104_Return_07:15,Quba Mosque,,1,104_02,128,,,104_021,4,4
+106,1,NORMAL_03_106_Return_11:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,15,15
+101,1,NORMAL_03_101_Return_19:00,Uhud battlefield,,1,101_01,41,,,101_012,16,40
+104,1,NORMAL_03_104_Return_09:05,Quba Mosque,,1,104_04,128,,,104_041,8,8
+107,1,NORMAL_03_107_Go_19:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,17,41
+101,1,NORMAL_03_101_Return_15:55,Uhud battlefield,,1,101_02,41,,,101_022,6,30
+104,1,NORMAL_03_104_Return_08:20,Quba Mosque,,1,104_01,128,,,104_011,8,8
+107,1,NORMAL_03_107_Return_15:15,Quba Mosque,,1,107_02,132,,,107_022,4,28
+104,1,NORMAL_03_104_Go_09:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,11,11
+101,1,NORMAL_03_101_Return_15:00,Uhud battlefield,,1,101_01,41,,,101_012,4,28
+104,1,NORMAL_03_104_Go_16:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,9,33
+107,1,NORMAL_03_107_Return_18:35,Quba Mosque,,1,107_02,132,,,107_022,14,38
+105,1,NORMAL_03_105_Go_19:15,Uhud battlefield,,1,105_03,130,,,105_032,9,25
+103,1,NORMAL_03_103_Go_09:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,9,9
+103,1,NORMAL_03_103_Return_08:50,Quba Mosque,,1,103_03,126,,,103_031,8,8
+106,1,NORMAL_03_106_Return_21:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,23,47
+101,1,NORMAL_03_101_Go_07:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,3,3
+106,1,NORMAL_03_106_Go_20:25,Railway Station,,0,106_04,51,,,106_042,18,42
+102,1,NORMAL_03_102_Go_12:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,19,19
+104,1,NORMAL_03_104_Go_18:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,11,35
+104,1,NORMAL_03_104_Return_16:10,Quba Mosque,,1,104_03,128,,,104_032,6,30
+104,1,NORMAL_03_104_Go_16:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,7,31
+107,1,NORMAL_03_107_Go_21:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,24,47
+102,1,NORMAL_03_102_Return_06:35,Quba Mosque,,1,102_02,124,,,102_021,2,2
+105,1,NORMAL_03_105_Go_14:00,Uhud battlefield,,1,105_02,130,,,105_021,15,15
+102,1,NORMAL_03_102_Go_08:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,7,7
+101,1,NORMAL_03_101_Return_18:20,Uhud battlefield,,1,101_01,41,,,101_012,14,38
+101,1,NORMAL_03_101_Go_20:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,19,43
+102,1,NORMAL_03_102_Go_19:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,15,39
+105,1,NORMAL_03_105_Return_09:40,Quba Mosque,,1,105_03,129,,,105_031,6,6
+104,1,NORMAL_03_104_Return_09:30,Quba Mosque,,1,104_03,128,,,104_031,10,10
+102,1,NORMAL_03_102_Go_07:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,3,3
+106,1,NORMAL_03_106_Return_13:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,23,23
+101,1,NORMAL_03_101_Go_15:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,3,27
+105,1,NORMAL_03_105_Go_19:00,Uhud battlefield,,1,105_02,130,,,105_022,9,25
+104,1,NORMAL_03_104_Return_10:50,Quba Mosque,,1,104_03,128,,,104_031,14,14
+106,1,NORMAL_03_106_Go_13:40,Railway Station,,0,106_01,51,,,106_011,24,24
+106,1,NORMAL_03_106_Go_07:05,Railway Station,,0,106_04,51,,,106_041,2,2
+101,1,NORMAL_03_101_Go_06:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,3,3
+101,1,NORMAL_03_101_Return_16:10,Uhud battlefield,,1,101_03,41,,,101_032,6,30
+102,1,NORMAL_03_102_Return_21:30,Quba Mosque,,1,102_03,124,,,102_032,22,46
+104,1,NORMAL_03_104_Go_06:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,3,3
+104,1,NORMAL_03_104_Go_12:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,19,19
+107,1,NORMAL_03_107_Go_20:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,19,43
+103,1,NORMAL_03_103_Go_06:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,3,3
+101,1,NORMAL_03_101_Go_12:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,19,19
+104,1,NORMAL_03_104_Return_19:30,Quba Mosque,,1,104_03,128,,,104_032,16,40
+107,1,NORMAL_03_107_Return_11:45,Quba Mosque,,1,107_04,132,,,107_041,16,16
+101,1,NORMAL_03_101_Go_10:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,13,13
+107,1,NORMAL_03_107_Go_07:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,5,5
+103,1,NORMAL_03_103_Go_11:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,17,17
+105,1,NORMAL_03_105_Return_07:40,Quba Mosque,,1,105_03,129,,,105_031,2,2
+104,1,NORMAL_03_104_Go_14:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,1,25
+101,1,NORMAL_03_101_Return_08:35,Uhud battlefield,,1,101_02,41,,,101_021,8,8
+101,1,NORMAL_03_101_Go_07:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,5,5
+106,1,NORMAL_03_106_Return_19:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,17,41
+103,1,NORMAL_03_103_Go_10:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,13,13
+101,1,NORMAL_03_101_Return_10:20,Uhud battlefield,,1,101_01,41,,,101_011,14,14
+107,1,NORMAL_03_107_Return_19:00,Quba Mosque,,1,107_01,132,,,107_012,17,40
+104,1,NORMAL_03_104_Return_11:45,Quba Mosque,,1,104_04,128,,,104_041,16,16
+105,1,NORMAL_03_105_Go_12:15,Uhud battlefield,,1,105_03,130,,,105_031,11,11
+107,1,NORMAL_03_107_Return_14:25,Quba Mosque,,1,107_04,132,,,107_041,24,24
+102,1,NORMAL_03_102_Go_19:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,17,41
+104,1,NORMAL_03_104_Go_19:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,17,41
+102,1,NORMAL_03_102_Return_07:40,Quba Mosque,,1,102_01,124,,,102_011,6,6
+106,1,NORMAL_03_106_Return_10:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,13,13
+103,1,NORMAL_03_103_Return_14:35,Quba Mosque,,1,103_02,126,,,103_022,2,26
+101,1,NORMAL_03_101_Return_08:10,Uhud battlefield,,1,101_03,41,,,101_031,6,6
+102,1,NORMAL_03_102_Return_19:15,Quba Mosque,,1,102_02,124,,,102_022,16,40
+103,1,NORMAL_03_103_Return_20:35,Quba Mosque,,1,103_02,126,,,103_022,20,44
+106,1,NORMAL_03_106_Go_19:15,Railway Station,,0,106_02,51,,,106_022,16,40
+102,1,NORMAL_03_102_Return_21:40,Quba Mosque,,1,102_01,124,,,102_012,24,48
+106,1,NORMAL_03_106_Return_12:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,19,19
+102,1,NORMAL_03_102_Go_11:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,17,17
+106,1,NORMAL_03_106_Go_18:50,Railway Station,,0,106_03,51,,,106_032,14,38
+106,1,NORMAL_03_106_Return_16:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,7,31
+106,1,NORMAL_03_106_Return_18:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,13,37
+103,1,NORMAL_03_103_Go_15:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,3,27
+107,1,NORMAL_03_107_Go_18:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,13,37
+102,1,NORMAL_03_102_Return_20:35,Quba Mosque,,1,102_02,124,,,102_022,20,44
+104,1,NORMAL_03_104_Return_06:20,Quba Mosque,,1,104_01,128,,,104_011,2,2
+104,1,NORMAL_03_104_Return_09:45,Quba Mosque,,1,104_04,128,,,104_041,10,10
+101,1,NORMAL_03_101_Go_13:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,21,21
+103,1,NORMAL_03_103_Return_06:50,Quba Mosque,,1,103_03,126,,,103_031,2,2
+104,1,NORMAL_03_104_Go_10:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,15,15
+102,1,NORMAL_03_102_Return_21:55,Quba Mosque,,1,102_02,124,,,102_022,24,48
+106,1,NORMAL_03_106_Return_06:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,3,3
+102,1,NORMAL_03_102_Return_08:10,Quba Mosque,,1,102_03,124,,,102_031,6,6
+103,1,NORMAL_03_103_Go_07:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,3,3
+106,1,NORMAL_03_106_Return_18:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,13,37
+101,1,NORMAL_03_101_Return_09:40,Uhud battlefield,,1,101_01,41,,,101_011,12,12
+101,1,NORMAL_03_101_Go_09:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,11,11
+104,1,NORMAL_03_104_Go_20:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,17,41
+103,1,NORMAL_03_103_Go_15:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,5,29
+107,1,NORMAL_03_107_Return_08:10,Quba Mosque,,1,107_03,132,,,107_031,6,6
+104,1,NORMAL_03_104_Go_13:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,23,23
+101,1,NORMAL_03_101_Return_06:50,Uhud battlefield,,1,101_03,41,,,101_031,2,2
+102,1,NORMAL_03_102_Go_06:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,1,1
+102,1,NORMAL_03_102_Go_12:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,19,19
+107,1,NORMAL_03_107_Go_18:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,15,39
+104,1,NORMAL_03_104_Return_20:20,Quba Mosque,,1,104_01,128,,,104_012,20,44
+103,1,NORMAL_03_103_Return_16:10,Quba Mosque,,1,103_03,126,,,103_032,6,30
+102,1,NORMAL_03_102_Go_07:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,5,5
+107,1,NORMAL_03_107_Go_08:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,7,7
+106,1,NORMAL_03_106_Go_09:05,Railway Station,,0,106_04,51,,,106_041,8,8
+101,1,NORMAL_03_101_Return_13:00,Uhud battlefield,,1,101_01,41,,,101_011,22,22
+101,1,NORMAL_03_101_Return_21:40,Uhud battlefield,,1,101_01,41,,,101_012,24,48
+105,1,NORMAL_03_105_Return_16:10,Quba Mosque,,1,105_01,129,,,105_012,4,20
+103,1,NORMAL_03_103_Go_09:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,11,11
+107,1,NORMAL_03_107_Go_18:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,11,35
+107,1,NORMAL_03_107_Go_08:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,5,5
+101,1,NORMAL_03_101_Go_08:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,7,7
+107,1,NORMAL_03_107_Go_06:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,1,1
+103,1,NORMAL_03_103_Go_13:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,23,23
+101,1,NORMAL_03_101_Go_21:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,21,45
+102,1,NORMAL_03_102_Go_09:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,11,11
+104,1,NORMAL_03_104_Return_09:00,Quba Mosque,,1,104_01,128,,,104_011,10,10
+104,1,NORMAL_03_104_Go_12:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,19,19
+104,1,NORMAL_03_104_Return_11:55,Quba Mosque,,1,104_02,128,,,104_021,18,18
+107,1,NORMAL_03_107_Go_09:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,11,11
+101,1,NORMAL_03_101_Go_16:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,9,33
+107,1,NORMAL_03_107_Go_06:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,3,3
+102,1,NORMAL_03_102_Return_15:05,Quba Mosque,,1,102_04,124,,,102_042,2,26
+104,1,NORMAL_03_104_Return_17:00,Quba Mosque,,1,104_01,128,,,104_012,10,34
+103,1,NORMAL_03_103_Go_11:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,17,17
+105,1,NORMAL_03_105_Return_15:40,Quba Mosque,,1,105_03,129,,,105_032,2,18
+107,1,NORMAL_03_107_Return_10:25,Quba Mosque,,1,107_04,132,,,107_041,12,12
+106,1,NORMAL_03_106_Return_17:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,11,35
+106,1,NORMAL_03_106_Return_19:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,15,39
+104,1,NORMAL_03_104_Return_21:30,Quba Mosque,,1,104_03,128,,,104_032,22,46
+102,1,NORMAL_03_102_Go_09:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,9,9
+102,1,NORMAL_03_102_Go_19:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,17,41
+106,1,NORMAL_03_106_Go_11:40,Railway Station,,0,106_01,51,,,106_011,18,18
+106,1,NORMAL_03_106_Return_20:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,21,45
+106,1,NORMAL_03_106_Return_08:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,7,7
+106,1,NORMAL_03_106_Go_12:20,Railway Station,,0,106_01,51,,,106_011,20,20
+104,1,NORMAL_03_104_Go_06:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,1,1
+104,1,NORMAL_03_104_Return_16:35,Quba Mosque,,1,104_02,128,,,104_022,8,32
+106,1,NORMAL_03_106_Go_10:25,Railway Station,,0,106_04,51,,,106_041,12,12
+102,1,NORMAL_03_102_Go_14:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,3,27
+104,1,NORMAL_03_104_Go_21:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,23,47
+104,1,NORMAL_03_104_Return_08:25,Quba Mosque,,1,104_04,128,,,104_041,6,6
+102,1,NORMAL_03_102_Return_16:50,Quba Mosque,,1,102_03,124,,,102_032,8,32
+107,1,NORMAL_03_107_Go_11:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,17,17
+104,1,NORMAL_03_104_Go_15:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,3,27
+107,1,NORMAL_03_107_Go_18:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,16,39
+104,1,NORMAL_03_104_Go_13:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,23,23
+101,1,NORMAL_03_101_Go_14:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,1,25
+106,1,NORMAL_03_106_Go_07:45,Railway Station,,0,106_04,51,,,106_041,4,4
+102,1,NORMAL_03_102_Return_19:40,Quba Mosque,,1,102_01,124,,,102_012,18,42
+102,1,NORMAL_03_102_Go_19:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,17,41
+106,1,NORMAL_03_106_Go_15:45,Railway Station,,0,106_04,51,,,106_042,4,28
+104,1,NORMAL_03_104_Go_12:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,19,19
+103,1,NORMAL_03_103_Go_11:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,15,15
+107,1,NORMAL_03_107_Return_18:20,Quba Mosque,,1,107_01,132,,,107_012,15,38
+101,1,NORMAL_03_101_Go_11:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,15,15
+101,1,NORMAL_03_101_Go_19:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,15,39
+102,1,NORMAL_03_102_Return_11:05,Quba Mosque,,1,102_04,124,,,102_041,14,14
+105,1,NORMAL_03_105_Return_11:10,Quba Mosque,,1,105_01,129,,,105_011,10,10
+101,1,NORMAL_03_101_Return_09:05,Uhud battlefield,,1,101_04,41,,,101_041,8,8
+103,1,NORMAL_03_103_Go_13:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,21,21
+106,1,NORMAL_03_106_Return_09:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,11,11
+106,1,NORMAL_03_106_Return_21:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,23,47
+102,1,NORMAL_03_102_Return_07:45,Quba Mosque,,1,102_04,124,,,102_041,4,4
+103,1,NORMAL_03_103_Go_14:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,3,27
+102,1,NORMAL_03_102_Return_11:40,Quba Mosque,,1,102_01,124,,,102_011,18,18
+106,1,NORMAL_03_106_Go_20:35,Railway Station,,0,106_02,51,,,106_022,20,44
+102,1,NORMAL_03_102_Go_10:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,11,11
+104,1,NORMAL_03_104_Go_15:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,5,29
+105,1,NORMAL_03_105_Return_19:40,Quba Mosque,,1,105_03,129,,,105_032,10,26
+101,1,NORMAL_03_101_Go_06:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,1,1
+106,1,NORMAL_03_106_Go_17:15,Railway Station,,0,106_02,51,,,106_022,10,34
+102,1,NORMAL_03_102_Go_10:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,13,13
+106,1,NORMAL_03_106_Go_07:55,Railway Station,,0,106_02,51,,,106_021,6,6
+104,1,NORMAL_03_104_Go_20:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,19,43
+106,1,NORMAL_03_106_Go_15:30,Railway Station,,0,106_03,51,,,106_032,4,28
+104,1,NORMAL_03_104_Go_18:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,15,39
+105,1,NORMAL_03_105_Return_19:25,Quba Mosque,,1,105_02,129,,,105_022,10,26
+103,1,NORMAL_03_103_Return_20:10,Quba Mosque,,1,103_03,126,,,103_032,18,42
+107,1,NORMAL_03_107_Go_08:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,7,7
+102,1,NORMAL_03_102_Return_13:05,Quba Mosque,,1,102_04,124,,,102_041,20,20
+101,1,NORMAL_03_101_Go_15:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,3,27
+107,1,NORMAL_03_107_Go_12:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,19,19
+106,1,NORMAL_03_106_Return_11:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,17,17
+104,1,NORMAL_03_104_Return_13:40,Quba Mosque,,1,104_01,128,,,104_011,24,24
+104,1,NORMAL_03_104_Return_09:40,Quba Mosque,,1,104_01,128,,,104_011,12,12
+106,1,NORMAL_03_106_Go_13:15,Railway Station,,0,106_02,51,,,106_021,22,22
+102,1,NORMAL_03_102_Return_19:00,Quba Mosque,,1,102_01,124,,,102_012,16,40
+101,1,NORMAL_03_101_Return_09:00,Uhud battlefield,,1,101_01,41,,,101_011,10,10
+102,1,NORMAL_03_102_Return_13:55,Quba Mosque,,1,102_02,124,,,102_021,24,24
+102,1,NORMAL_03_102_Go_10:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,15,15
+101,1,NORMAL_03_101_Return_19:45,Uhud battlefield,,1,101_04,41,,,101_042,16,40
+105,1,NORMAL_03_105_Go_08:00,Uhud battlefield,,1,105_02,130,,,105_021,3,3
+107,1,NORMAL_03_107_Return_09:55,Quba Mosque,,1,107_02,132,,,107_021,12,12
+107,1,NORMAL_03_107_Return_14:10,Quba Mosque,,1,107_03,132,,,107_031,24,24
+107,1,NORMAL_03_107_Return_20:20,Quba Mosque,,1,107_01,132,,,107_012,21,44
+101,1,NORMAL_03_101_Return_20:25,Uhud battlefield,,1,101_04,41,,,101_042,18,42
+101,1,NORMAL_03_101_Return_14:20,Uhud battlefield,,1,101_01,41,,,101_012,2,26
+106,1,NORMAL_03_106_Go_18:25,Railway Station,,0,106_04,51,,,106_042,12,36
+106,1,NORMAL_03_106_Return_19:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,17,41
+102,1,NORMAL_03_102_Return_22:10,Quba Mosque,,1,102_03,124,,,102_032,24,48
+105,1,NORMAL_03_105_Return_17:40,Quba Mosque,,1,105_03,129,,,105_032,6,22
+102,1,NORMAL_03_102_Go_13:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,21,21
+102,1,NORMAL_03_102_Go_14:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,3,27
+102,1,NORMAL_03_102_Go_20:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,19,43
+107,1,NORMAL_03_107_Go_11:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,17,17
+104,1,NORMAL_03_104_Go_16:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,9,33
+102,1,NORMAL_03_102_Return_15:15,Quba Mosque,,1,102_02,124,,,102_022,4,28
+101,1,NORMAL_03_101_Go_19:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,17,41
+106,1,NORMAL_03_106_Go_18:35,Railway Station,,0,106_02,51,,,106_022,14,38
+104,1,NORMAL_03_104_Return_18:25,Quba Mosque,,1,104_04,128,,,104_042,12,36
+107,1,NORMAL_03_107_Go_14:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,1,25
+107,1,NORMAL_03_107_Go_07:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,3,3
+103,1,NORMAL_03_103_Return_20:25,Quba Mosque,,1,103_04,126,,,103_042,18,42
+103,1,NORMAL_03_103_Return_11:55,Quba Mosque,,1,103_02,126,,,103_021,18,18
+107,1,NORMAL_03_107_Return_07:05,Quba Mosque,,1,107_04,132,,,107_041,2,2
+101,1,NORMAL_03_101_Return_07:15,Uhud battlefield,,1,101_02,41,,,101_021,4,4
+103,1,NORMAL_03_103_Go_12:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,17,17
+101,1,NORMAL_03_101_Return_17:15,Uhud battlefield,,1,101_02,41,,,101_022,10,34
+101,1,NORMAL_03_101_Return_20:10,Uhud battlefield,,1,101_03,41,,,101_032,18,42
+102,1,NORMAL_03_102_Go_08:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,7,7
+107,1,NORMAL_03_107_Return_09:00,Quba Mosque,,1,107_01,132,,,107_011,10,10
+106,1,NORMAL_03_106_Go_11:00,Railway Station,,0,106_01,51,,,106_011,16,16
+105,1,NORMAL_03_105_Return_10:10,Quba Mosque,,1,105_01,129,,,105_011,8,8
+105,1,NORMAL_03_105_Go_15:45,Uhud battlefield,,1,105_01,130,,,105_012,3,19
+101,1,NORMAL_03_101_Return_17:40,Uhud battlefield,,1,101_01,41,,,101_012,12,36
+103,1,NORMAL_03_103_Return_07:00,Quba Mosque,,1,103_01,126,,,103_011,4,4
+107,1,NORMAL_03_107_Go_22:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,23,47
+105,1,NORMAL_03_105_Go_16:45,Uhud battlefield,,1,105_01,130,,,105_012,5,21
+106,1,NORMAL_03_106_Go_12:50,Railway Station,,0,106_03,51,,,106_031,20,20
+103,1,NORMAL_03_103_Go_20:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,19,43
+104,1,NORMAL_03_104_Go_11:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,17,17
+101,1,NORMAL_03_101_Go_19:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,15,39
+107,1,NORMAL_03_107_Go_06:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,3,3
+103,1,NORMAL_03_103_Go_10:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,11,11
+107,1,NORMAL_03_107_Go_20:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,20,43
+103,1,NORMAL_03_103_Return_09:40,Quba Mosque,,1,103_01,126,,,103_011,12,12
+104,1,NORMAL_03_104_Return_09:15,Quba Mosque,,1,104_02,128,,,104_021,10,10
+106,1,NORMAL_03_106_Return_16:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,9,33
+102,1,NORMAL_03_102_Return_06:20,Quba Mosque,,1,102_01,124,,,102_011,2,2
+101,1,NORMAL_03_101_Go_15:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,5,29
+101,1,NORMAL_03_101_Go_18:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,13,37
+102,1,NORMAL_03_102_Return_18:20,Quba Mosque,,1,102_01,124,,,102_012,14,38
+102,1,NORMAL_03_102_Return_18:35,Quba Mosque,,1,102_02,124,,,102_022,14,38
+106,1,NORMAL_03_106_Go_08:25,Railway Station,,0,106_04,51,,,106_041,6,6
+107,1,NORMAL_03_107_Go_20:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,19,43
+103,1,NORMAL_03_103_Go_16:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,7,31
+107,1,NORMAL_03_107_Go_15:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,5,29
+105,1,NORMAL_03_105_Go_06:45,Uhud battlefield,,1,105_01,130,,,105_011,1,1
+101,1,NORMAL_03_101_Go_15:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,5,29
+104,1,NORMAL_03_104_Return_22:10,Quba Mosque,,1,104_03,128,,,104_032,24,48
+104,1,NORMAL_03_104_Return_07:30,Quba Mosque,,1,104_03,128,,,104_031,4,4
+106,1,NORMAL_03_106_Return_14:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,1,25
+104,1,NORMAL_03_104_Return_06:50,Quba Mosque,,1,104_03,128,,,104_031,2,2
+104,1,NORMAL_03_104_Go_17:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,11,35
+103,1,NORMAL_03_103_Return_07:05,Quba Mosque,,1,103_04,126,,,103_041,2,2
+103,1,NORMAL_03_103_Go_06:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,1,1
+103,1,NORMAL_03_103_Return_15:55,Quba Mosque,,1,103_02,126,,,103_022,6,30
+103,1,NORMAL_03_103_Return_19:30,Quba Mosque,,1,103_03,126,,,103_032,16,40
+107,1,NORMAL_03_107_Return_11:55,Quba Mosque,,1,107_02,132,,,107_021,18,18
+104,1,NORMAL_03_104_Return_17:45,Quba Mosque,,1,104_04,128,,,104_042,10,34
+104,1,NORMAL_03_104_Go_20:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,19,43
+106,1,NORMAL_03_106_Return_20:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,17,41
+103,1,NORMAL_03_103_Return_17:30,Quba Mosque,,1,103_03,126,,,103_032,10,34
+101,1,NORMAL_03_101_Return_21:00,Uhud battlefield,,1,101_01,41,,,101_012,22,46
+101,1,NORMAL_03_101_Go_17:25,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,9,33
+107,1,NORMAL_03_107_Go_10:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,13,13
+106,1,NORMAL_03_106_Go_15:55,Railway Station,,0,106_02,51,,,106_022,6,30
+104,1,NORMAL_03_104_Return_19:45,Quba Mosque,,1,104_04,128,,,104_042,16,40
+103,1,NORMAL_03_103_Go_12:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,19,19
+101,1,NORMAL_03_101_Return_18:10,Uhud battlefield,,1,101_03,41,,,101_032,12,36
+103,1,NORMAL_03_103_Return_12:35,Quba Mosque,,1,103_02,126,,,103_021,20,20
+101,1,NORMAL_03_101_Go_19:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,17,41
+103,1,NORMAL_03_103_Go_21:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,23,47
+103,1,NORMAL_03_103_Go_19:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,15,39
+107,1,NORMAL_03_107_Go_21:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,23,47
+103,1,NORMAL_03_103_Return_08:35,Quba Mosque,,1,103_02,126,,,103_021,8,8
+107,1,NORMAL_03_107_Go_14:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,23,23
+107,1,NORMAL_03_107_Return_11:05,Quba Mosque,,1,107_04,132,,,107_041,14,14
+103,1,NORMAL_03_103_Go_20:05,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,17,41
+101,1,NORMAL_03_101_Go_20:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,19,43
+102,1,NORMAL_03_102_Return_20:20,Quba Mosque,,1,102_01,124,,,102_012,20,44
+107,1,NORMAL_03_107_Return_12:10,Quba Mosque,,1,107_03,132,,,107_031,18,18
+107,1,NORMAL_03_107_Return_21:15,Quba Mosque,,1,107_02,132,,,107_022,22,46
+103,1,NORMAL_03_103_Return_10:50,Quba Mosque,,1,103_03,126,,,103_031,14,14
+103,1,NORMAL_03_103_Return_17:40,Quba Mosque,,1,103_01,126,,,103_012,12,36
+103,1,NORMAL_03_103_Go_08:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,7,7
+102,1,NORMAL_03_102_Return_17:55,Quba Mosque,,1,102_02,124,,,102_022,12,36
+104,1,NORMAL_03_104_Go_08:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,9,9
+107,1,NORMAL_03_107_Return_06:35,Quba Mosque,,1,107_02,132,,,107_021,2,2
+107,1,NORMAL_03_107_Return_17:15,Quba Mosque,,1,107_02,132,,,107_022,10,34
+105,1,NORMAL_03_105_Return_18:25,Quba Mosque,,1,105_02,129,,,105_022,8,24
+106,1,NORMAL_03_106_Go_13:05,Railway Station,,0,106_04,51,,,106_041,20,20
+105,1,NORMAL_03_105_Go_12:00,Uhud battlefield,,1,105_02,130,,,105_021,11,11
+102,1,NORMAL_03_102_Return_08:35,Quba Mosque,,1,102_02,124,,,102_021,8,8
+106,1,NORMAL_03_106_Return_16:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,9,33
+106,1,NORMAL_03_106_Go_21:00,Railway Station,,0,106_01,51,,,106_012,22,46
+107,1,NORMAL_03_107_Return_13:00,Quba Mosque,,1,107_01,132,,,107_011,22,22
+107,1,NORMAL_03_107_Go_16:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,5,29
+103,1,NORMAL_03_103_Return_22:25,Quba Mosque,,1,103_04,126,,,103_042,24,48
+107,1,NORMAL_03_107_Go_16:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,8,31
+107,1,NORMAL_03_107_Return_07:45,Quba Mosque,,1,107_04,132,,,107_041,4,4
+107,1,NORMAL_03_107_Return_08:35,Quba Mosque,,1,107_02,132,,,107_021,8,8
+102,1,NORMAL_03_102_Go_18:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,15,39
+101,1,NORMAL_03_101_Go_08:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,9,9
+106,1,NORMAL_03_106_Return_18:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,13,37
+103,1,NORMAL_03_103_Return_13:55,Quba Mosque,,1,103_02,126,,,103_021,24,24
+106,1,NORMAL_03_106_Return_13:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,23,23
+101,1,NORMAL_03_101_Return_13:45,Uhud battlefield,,1,101_04,41,,,101_041,22,22
+107,1,NORMAL_03_107_Return_13:30,Quba Mosque,,1,107_03,132,,,107_031,22,22
+106,1,NORMAL_03_106_Return_08:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,7,7
+105,1,NORMAL_03_105_Return_22:25,Quba Mosque,,1,105_02,129,,,105_022,16,32
+107,1,NORMAL_03_107_Go_13:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,23,23
+104,1,NORMAL_03_104_Go_20:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,19,43
+106,1,NORMAL_03_106_Go_11:05,Railway Station,,0,106_04,51,,,106_041,14,14
+106,1,NORMAL_03_106_Go_21:15,Railway Station,,0,106_02,51,,,106_022,22,46
+102,1,NORMAL_03_102_Go_06:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,3,3
+102,1,NORMAL_03_102_Go_20:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,21,45
+107,1,NORMAL_03_107_Go_14:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,1,25
+104,1,NORMAL_03_104_Go_16:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,7,31
+105,1,NORMAL_03_105_Return_21:25,Quba Mosque,,1,105_02,129,,,105_022,14,30
+103,1,NORMAL_03_103_Return_21:55,Quba Mosque,,1,103_02,126,,,103_022,24,48
+103,1,NORMAL_03_103_Return_17:15,Quba Mosque,,1,103_02,126,,,103_022,10,34
+102,1,NORMAL_03_102_Go_10:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,15,15
+106,1,NORMAL_03_106_Return_14:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,1,25
+106,1,NORMAL_03_106_Go_21:40,Railway Station,,0,106_01,51,,,106_012,24,48
+107,1,NORMAL_03_107_Return_07:30,Quba Mosque,,1,107_03,132,,,107_031,4,4
+104,1,NORMAL_03_104_Return_13:55,Quba Mosque,,1,104_02,128,,,104_021,24,24
+103,1,NORMAL_03_103_Return_07:55,Quba Mosque,,1,103_02,126,,,103_021,6,6
+103,1,NORMAL_03_103_Return_12:10,Quba Mosque,,1,103_03,126,,,103_031,18,18
+104,1,NORMAL_03_104_Return_10:25,Quba Mosque,,1,104_04,128,,,104_041,12,12
+106,1,NORMAL_03_106_Return_16:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,7,31
+102,1,NORMAL_03_102_Go_18:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,15,39
+103,1,NORMAL_03_103_Return_15:00,Quba Mosque,,1,103_01,126,,,103_012,4,28
+101,1,NORMAL_03_101_Go_11:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,17,17
+104,1,NORMAL_03_104_Return_12:25,Quba Mosque,,1,104_04,128,,,104_041,18,18
+107,1,NORMAL_03_107_Return_09:15,Quba Mosque,,1,107_02,132,,,107_021,10,10
+104,1,NORMAL_03_104_Go_18:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,13,37
+107,1,NORMAL_03_107_Return_09:05,Quba Mosque,,1,107_04,132,,,107_041,8,8
+107,1,NORMAL_03_107_Go_06:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,1,1
+106,1,NORMAL_03_106_Go_22:10,Railway Station,,0,106_03,51,,,106_032,24,48
+103,1,NORMAL_03_103_Return_13:30,Quba Mosque,,1,103_03,126,,,103_031,22,22
+104,1,NORMAL_03_104_Return_07:55,Quba Mosque,,1,104_02,128,,,104_021,6,6
+106,1,NORMAL_03_106_Go_14:10,Railway Station,,0,106_03,51,,,106_031,24,24
+102,1,NORMAL_03_102_Go_10:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,13,13
+103,1,NORMAL_03_103_Go_06:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,1,1
+102,1,NORMAL_03_102_Return_10:10,Quba Mosque,,1,102_03,124,,,102_031,12,12
+102,1,NORMAL_03_102_Return_06:50,Quba Mosque,,1,102_03,124,,,102_031,2,2
+101,1,NORMAL_03_101_Go_12:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,19,19
+107,1,NORMAL_03_107_Return_17:45,Quba Mosque,,1,107_04,132,,,107_042,10,34
+102,1,NORMAL_03_102_Return_11:15,Quba Mosque,,1,102_02,124,,,102_021,16,16
+103,1,NORMAL_03_103_Go_21:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,23,47
+102,1,NORMAL_03_102_Go_08:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,5,5
+104,1,NORMAL_03_104_Go_18:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,15,39
+106,1,NORMAL_03_106_Go_09:00,Railway Station,,0,106_01,51,,,106_011,10,10
+107,1,NORMAL_03_107_Return_21:30,Quba Mosque,,1,107_03,132,,,107_032,22,46
+102,1,NORMAL_03_102_Go_07:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,3,3
+103,1,NORMAL_03_103_Go_12:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,21,21
+101,1,NORMAL_03_101_Return_14:35,Uhud battlefield,,1,101_02,41,,,101_022,2,26
+104,1,NORMAL_03_104_Go_11:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,17,17
+107,1,NORMAL_03_107_Go_06:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,1,1
+102,1,NORMAL_03_102_Return_17:45,Quba Mosque,,1,102_04,124,,,102_042,10,34
+103,1,NORMAL_03_103_Go_13:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,23,23
+104,1,NORMAL_03_104_Return_12:35,Quba Mosque,,1,104_02,128,,,104_021,20,20
+101,1,NORMAL_03_101_Go_20:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,19,43
+103,1,NORMAL_03_103_Return_09:55,Quba Mosque,,1,103_02,126,,,103_021,12,12
+104,1,NORMAL_03_104_Return_14:35,Quba Mosque,,1,104_02,128,,,104_022,2,26
+102,1,NORMAL_03_102_Go_15:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,5,29
+101,1,NORMAL_03_101_Return_07:30,Uhud battlefield,,1,101_03,41,,,101_031,4,4
+103,1,NORMAL_03_103_Go_10:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,15,15
+102,1,NORMAL_03_102_Go_15:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,5,29
+102,1,NORMAL_03_102_Return_12:10,Quba Mosque,,1,102_03,124,,,102_031,18,18
+101,1,NORMAL_03_101_Return_11:55,Uhud battlefield,,1,101_02,41,,,101_021,18,18
+101,1,NORMAL_03_101_Return_10:50,Uhud battlefield,,1,101_03,41,,,101_031,14,14
+102,1,NORMAL_03_102_Go_13:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,23,23
+103,1,NORMAL_03_103_Go_16:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,7,31
+104,1,NORMAL_03_104_Go_22:05,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,23,47
+104,1,NORMAL_03_104_Return_21:00,Quba Mosque,,1,104_01,128,,,104_012,22,46
+107,1,NORMAL_03_107_Go_18:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,14,37
+103,1,NORMAL_03_103_Go_14:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,1,25
+105,1,NORMAL_03_105_Go_20:00,Uhud battlefield,,1,105_02,130,,,105_022,11,27
+103,1,NORMAL_03_103_Go_18:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,13,37
+104,1,NORMAL_03_104_Return_15:45,Quba Mosque,,1,104_04,128,,,104_042,4,28
+101,1,NORMAL_03_101_Go_06:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,3,3
+107,1,NORMAL_03_107_Return_16:50,Quba Mosque,,1,107_03,132,,,107_032,8,32
+106,1,NORMAL_03_106_Go_08:35,Railway Station,,0,106_02,51,,,106_021,8,8
+107,1,NORMAL_03_107_Go_10:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,13,13
+102,1,NORMAL_03_102_Return_07:05,Quba Mosque,,1,102_04,124,,,102_041,2,2
+107,1,NORMAL_03_107_Return_16:35,Quba Mosque,,1,107_02,132,,,107_022,8,32
+104,1,NORMAL_03_104_Go_13:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,23,23
+102,1,NORMAL_03_102_Go_21:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,23,47
+102,1,NORMAL_03_102_Go_13:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,21,21
+105,1,NORMAL_03_105_Go_08:45,Uhud battlefield,,1,105_01,130,,,105_011,5,5
+102,1,NORMAL_03_102_Return_12:35,Quba Mosque,,1,102_02,124,,,102_021,20,20
+106,1,NORMAL_03_106_Return_11:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,17,17
+104,1,NORMAL_03_104_Return_17:15,Quba Mosque,,1,104_02,128,,,104_022,10,34
+101,1,NORMAL_03_101_Return_12:35,Uhud battlefield,,1,101_02,41,,,101_021,20,20
+104,1,NORMAL_03_104_Go_14:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,3,27
+102,1,NORMAL_03_102_Go_12:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,19,19
+102,1,NORMAL_03_102_Go_12:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,17,17
+106,1,NORMAL_03_106_Go_19:00,Railway Station,,0,106_01,51,,,106_012,16,40
+102,1,NORMAL_03_102_Return_15:45,Quba Mosque,,1,102_04,124,,,102_042,4,28
+104,1,NORMAL_03_104_Return_14:25,Quba Mosque,,1,104_04,128,,,104_041,24,24
+102,1,NORMAL_03_102_Go_17:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,9,33
+101,1,NORMAL_03_101_Return_19:15,Uhud battlefield,,1,101_02,41,,,101_022,16,40
+102,1,NORMAL_03_102_Return_19:55,Quba Mosque,,1,102_02,124,,,102_022,18,42
+103,1,NORMAL_03_103_Return_07:40,Quba Mosque,,1,103_01,126,,,103_011,6,6
+105,1,NORMAL_03_105_Return_12:10,Quba Mosque,,1,105_01,129,,,105_011,12,12
+104,1,NORMAL_03_104_Go_07:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,5,5
+106,1,NORMAL_03_106_Return_12:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,19,19
+105,1,NORMAL_03_105_Go_10:45,Uhud battlefield,,1,105_01,130,,,105_011,9,9
+104,1,NORMAL_03_104_Return_12:50,Quba Mosque,,1,104_03,128,,,104_031,20,20
+101,1,NORMAL_03_101_Go_08:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,7,7
+107,1,NORMAL_03_107_Return_22:25,Quba Mosque,,1,107_04,132,,,107_042,24,48
+104,1,NORMAL_03_104_Go_14:40,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,3,27
+104,1,NORMAL_03_104_Go_10:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,13,13
+101,1,NORMAL_03_101_Go_08:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,5,5
+104,1,NORMAL_03_104_Go_10:00,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_011,13,13
+107,1,NORMAL_03_107_Go_14:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,4,27
+103,1,NORMAL_03_103_Return_15:40,Quba Mosque,,1,103_01,126,,,103_012,6,30
+107,1,NORMAL_03_107_Go_14:00,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,2,25
+101,1,NORMAL_03_101_Go_14:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,1,25
+103,1,NORMAL_03_103_Return_19:00,Quba Mosque,,1,103_01,126,,,103_012,16,40
+105,1,NORMAL_03_105_Go_10:15,Uhud battlefield,,1,105_03,130,,,105_031,7,7
+101,1,NORMAL_03_101_Go_08:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,9,9
+102,1,NORMAL_03_102_Go_14:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,1,25
+103,1,NORMAL_03_103_Go_15:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,5,29
+104,1,NORMAL_03_104_Go_06:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,3,3
+106,1,NORMAL_03_106_Go_21:45,Railway Station,,0,106_04,51,,,106_042,22,46
+106,1,NORMAL_03_106_Return_10:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,13,13
+104,1,NORMAL_03_104_Go_21:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,23,47
+106,1,NORMAL_03_106_Go_19:30,Railway Station,,0,106_03,51,,,106_032,16,40
+107,1,NORMAL_03_107_Return_10:20,Quba Mosque,,1,107_01,132,,,107_011,14,14
+104,1,NORMAL_03_104_Return_18:20,Quba Mosque,,1,104_01,128,,,104_012,14,38
+102,1,NORMAL_03_102_Go_19:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,15,39
+103,1,NORMAL_03_103_Go_19:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,17,41
+106,1,NORMAL_03_106_Go_13:30,Railway Station,,0,106_03,51,,,106_031,22,22
+106,1,NORMAL_03_106_Return_07:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,5,5
+104,1,NORMAL_03_104_Go_06:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,1,1
+103,1,NORMAL_03_103_Return_10:20,Quba Mosque,,1,103_01,126,,,103_011,14,14
+106,1,NORMAL_03_106_Return_13:10,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,21,21
+107,1,NORMAL_03_107_Go_10:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,15,15
+102,1,NORMAL_03_102_Go_10:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,13,13
+103,1,NORMAL_03_103_Go_16:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,7,31
+107,1,NORMAL_03_107_Return_15:55,Quba Mosque,,1,107_02,132,,,107_022,6,30
+102,1,NORMAL_03_102_Return_15:40,Quba Mosque,,1,102_01,124,,,102_012,6,30
+101,1,NORMAL_03_101_Return_11:40,Uhud battlefield,,1,101_01,41,,,101_011,18,18
+106,1,NORMAL_03_106_Return_12:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,19,19
+103,1,NORMAL_03_103_Go_18:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,13,37
+107,1,NORMAL_03_107_Go_10:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,15,15
+107,1,NORMAL_03_107_Return_15:05,Quba Mosque,,1,107_04,132,,,107_042,2,26
+103,1,NORMAL_03_103_Return_18:35,Quba Mosque,,1,103_02,126,,,103_022,14,38
+106,1,NORMAL_03_106_Return_08:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,9,9
+101,1,NORMAL_03_101_Return_18:35,Uhud battlefield,,1,101_02,41,,,101_022,14,38
+103,1,NORMAL_03_103_Return_08:25,Quba Mosque,,1,103_04,126,,,103_041,6,6
+106,1,NORMAL_03_106_Go_14:35,Railway Station,,0,106_02,51,,,106_022,2,26
+103,1,NORMAL_03_103_Return_15:45,Quba Mosque,,1,103_04,126,,,103_042,4,28
+103,1,NORMAL_03_103_Go_06:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,1,1
+101,1,NORMAL_03_101_Go_10:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,11,11
+102,1,NORMAL_03_102_Return_13:15,Quba Mosque,,1,102_02,124,,,102_021,22,22
+104,1,NORMAL_03_104_Go_12:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,19,19
+104,1,NORMAL_03_104_Return_13:05,Quba Mosque,,1,104_04,128,,,104_041,20,20
+104,1,NORMAL_03_104_Return_15:15,Quba Mosque,,1,104_02,128,,,104_022,4,28
+101,1,NORMAL_03_101_Go_10:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,13,13
+102,1,NORMAL_03_102_Go_09:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,11,11
+101,1,NORMAL_03_101_Go_22:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,23,47
+102,1,NORMAL_03_102_Return_17:30,Quba Mosque,,1,102_03,124,,,102_032,10,34
+104,1,NORMAL_03_104_Return_13:00,Quba Mosque,,1,104_01,128,,,104_011,22,22
+107,1,NORMAL_03_107_Go_11:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,15,15
+103,1,NORMAL_03_103_Return_21:45,Quba Mosque,,1,103_04,126,,,103_042,22,46
+107,1,NORMAL_03_107_Return_17:55,Quba Mosque,,1,107_02,132,,,107_022,12,36
+106,1,NORMAL_03_106_Go_07:15,Railway Station,,0,106_02,51,,,106_021,4,4
+102,1,NORMAL_03_102_Go_06:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,3,3
+103,1,NORMAL_03_103_Return_11:00,Quba Mosque,,1,103_01,126,,,103_011,16,16
+107,1,NORMAL_03_107_Go_12:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,19,19
+101,1,NORMAL_03_101_Go_10:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,15,15
+101,1,NORMAL_03_101_Return_20:20,Uhud battlefield,,1,101_01,41,,,101_012,20,44
+106,1,NORMAL_03_106_Return_14:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,3,27
+103,1,NORMAL_03_103_Go_06:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,3,3
+104,1,NORMAL_03_104_Return_19:00,Quba Mosque,,1,104_01,128,,,104_012,16,40
+107,1,NORMAL_03_107_Return_16:25,Quba Mosque,,1,107_04,132,,,107_042,6,30
+107,1,NORMAL_03_107_Go_09:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,11,11
+103,1,NORMAL_03_103_Return_19:05,Quba Mosque,,1,103_04,126,,,103_042,14,38
+105,1,NORMAL_03_105_Go_14:45,Uhud battlefield,,1,105_01,130,,,105_012,1,17
+106,1,NORMAL_03_106_Return_09:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,11,11
+104,1,NORMAL_03_104_Go_06:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,1,1
+106,1,NORMAL_03_106_Go_16:50,Railway Station,,0,106_03,51,,,106_032,8,32
+104,1,NORMAL_03_104_Return_15:00,Quba Mosque,,1,104_01,128,,,104_012,4,28
+103,1,NORMAL_03_103_Return_20:50,Quba Mosque,,1,103_03,126,,,103_032,20,44
+102,1,NORMAL_03_102_Return_16:20,Quba Mosque,,1,102_01,124,,,102_012,8,32
+105,1,NORMAL_03_105_Go_09:15,Uhud battlefield,,1,105_03,130,,,105_031,5,5
+103,1,NORMAL_03_103_Go_19:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,15,39
+101,1,NORMAL_03_101_Return_12:25,Uhud battlefield,,1,101_04,41,,,101_041,18,18
+107,1,NORMAL_03_107_Go_18:30,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,13,37
+102,1,NORMAL_03_102_Go_13:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_011,23,23
+104,1,NORMAL_03_104_Go_07:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,3,3
+107,1,NORMAL_03_107_Go_20:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,21,45
+103,1,NORMAL_03_103_Return_07:45,Quba Mosque,,1,103_04,126,,,103_041,4,4
+104,1,NORMAL_03_104_Go_12:55,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,21,21
+107,1,NORMAL_03_107_Return_17:40,Quba Mosque,,1,107_01,132,,,107_012,13,36
+102,1,NORMAL_03_102_Return_16:35,Quba Mosque,,1,102_02,124,,,102_022,8,32
+106,1,NORMAL_03_106_Go_13:55,Railway Station,,0,106_02,51,,,106_021,24,24
+106,1,NORMAL_03_106_Go_17:00,Railway Station,,0,106_01,51,,,106_012,10,34
+101,1,NORMAL_03_101_Go_18:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,13,37
+105,1,NORMAL_03_105_Go_22:15,Uhud battlefield,,1,105_03,130,,,105_032,15,31
+106,1,NORMAL_03_106_Go_18:20,Railway Station,,0,106_01,51,,,106_012,14,38
+103,1,NORMAL_03_103_Return_18:50,Quba Mosque,,1,103_03,126,,,103_032,14,38
+107,1,NORMAL_03_107_Go_07:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_031,5,5
+101,1,NORMAL_03_101_Return_12:50,Uhud battlefield,,1,101_03,41,,,101_031,20,20
+104,1,NORMAL_03_104_Return_19:40,Quba Mosque,,1,104_01,128,,,104_012,18,42
+106,1,NORMAL_03_106_Go_09:45,Railway Station,,0,106_04,51,,,106_041,10,10
+106,1,NORMAL_03_106_Return_15:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,5,29
+106,1,NORMAL_03_106_Go_15:05,Railway Station,,0,106_04,51,,,106_042,2,26
+102,1,NORMAL_03_102_Go_14:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,1,25
+106,1,NORMAL_03_106_Return_20:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,19,43
+102,1,NORMAL_03_102_Go_15:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,5,29
+103,1,NORMAL_03_103_Return_09:45,Quba Mosque,,1,103_04,126,,,103_041,10,10
+103,1,NORMAL_03_103_Return_22:10,Quba Mosque,,1,103_03,126,,,103_032,24,48
+103,1,NORMAL_03_103_Go_20:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,19,43
+101,1,NORMAL_03_101_Go_21:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,23,47
+106,1,NORMAL_03_106_Return_12:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,19,19
+107,1,NORMAL_03_107_Return_11:30,Quba Mosque,,1,107_03,132,,,107_031,16,16
+107,1,NORMAL_03_107_Return_19:15,Quba Mosque,,1,107_02,132,,,107_022,16,40
+105,1,NORMAL_03_105_Go_18:15,Uhud battlefield,,1,105_03,130,,,105_032,7,23
+102,1,NORMAL_03_102_Go_21:10,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,21,45
+101,1,NORMAL_03_101_Go_13:35,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,23,23
+106,1,NORMAL_03_106_Return_18:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,15,39
+107,1,NORMAL_03_107_Go_16:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,7,31
+103,1,NORMAL_03_103_Return_15:15,Quba Mosque,,1,103_02,126,,,103_022,4,28
+102,1,NORMAL_03_102_Go_11:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,17,17
+102,1,NORMAL_03_102_Return_17:15,Quba Mosque,,1,102_02,124,,,102_022,10,34
+106,1,NORMAL_03_106_Go_09:30,Railway Station,,0,106_03,51,,,106_031,10,10
+103,1,NORMAL_03_103_Go_13:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,21,21
+102,1,NORMAL_03_102_Go_08:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,9,9
+106,1,NORMAL_03_106_Return_12:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,17,17
+101,1,NORMAL_03_101_Go_16:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,7,31
+101,1,NORMAL_03_101_Go_21:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,23,47
+106,1,NORMAL_03_106_Return_21:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,21,45
+106,1,NORMAL_03_106_Go_06:50,Railway Station,,0,106_03,51,,,106_031,2,2
+105,1,NORMAL_03_105_Return_20:10,Quba Mosque,,1,105_01,129,,,105_012,12,28
+106,1,NORMAL_03_106_Go_12:35,Railway Station,,0,106_02,51,,,106_021,20,20
+101,1,NORMAL_03_101_Go_06:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,1,1
+104,1,NORMAL_03_104_Go_17:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,11,35
+101,1,NORMAL_03_101_Return_09:55,Uhud battlefield,,1,101_02,41,,,101_021,12,12
+106,1,NORMAL_03_106_Return_06:55,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,3,3
+102,1,NORMAL_03_102_Go_20:00,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,19,43
+107,1,NORMAL_03_107_Return_19:05,Quba Mosque,,1,107_04,132,,,107_042,14,38
+103,1,NORMAL_03_103_Return_08:10,Quba Mosque,,1,103_03,126,,,103_031,6,6
+103,1,NORMAL_03_103_Return_09:30,Quba Mosque,,1,103_03,126,,,103_031,10,10
+102,1,NORMAL_03_102_Go_06:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,1,1
+103,1,NORMAL_03_103_Go_14:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,3,27
+103,1,NORMAL_03_103_Go_16:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,9,33
+105,1,NORMAL_03_105_Go_21:45,Uhud battlefield,,1,105_01,130,,,105_012,15,31
+104,1,NORMAL_03_104_Return_16:20,Quba Mosque,,1,104_01,128,,,104_012,8,32
+102,1,NORMAL_03_102_Return_09:15,Quba Mosque,,1,102_02,124,,,102_021,10,10
+103,1,NORMAL_03_103_Return_19:55,Quba Mosque,,1,103_02,126,,,103_022,18,42
+103,1,NORMAL_03_103_Go_16:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,7,31
+103,1,NORMAL_03_103_Go_11:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,15,15
+101,1,NORMAL_03_101_Return_09:45,Uhud battlefield,,1,101_04,41,,,101_041,10,10
+104,1,NORMAL_03_104_Return_10:10,Quba Mosque,,1,104_03,128,,,104_031,12,12
+102,1,NORMAL_03_102_Return_13:30,Quba Mosque,,1,102_03,124,,,102_031,22,22
+105,1,NORMAL_03_105_Go_22:00,Uhud battlefield,,1,105_02,130,,,105_022,15,31
+104,1,NORMAL_03_104_Return_21:55,Quba Mosque,,1,104_02,128,,,104_022,24,48
+101,1,NORMAL_03_101_Return_11:15,Uhud battlefield,,1,101_02,41,,,101_021,16,16
+101,1,NORMAL_03_101_Return_15:15,Uhud battlefield,,1,101_02,41,,,101_022,4,28
+103,1,NORMAL_03_103_Go_20:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_022,21,45
+101,1,NORMAL_03_101_Go_14:45,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,1,25
+104,1,NORMAL_03_104_Return_16:50,Quba Mosque,,1,104_03,128,,,104_032,8,32
+103,1,NORMAL_03_103_Go_17:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,9,33
+105,1,NORMAL_03_105_Return_11:40,Quba Mosque,,1,105_03,129,,,105_031,10,10
+104,1,NORMAL_03_104_Go_15:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,3,27
+106,1,NORMAL_03_106_Go_13:45,Railway Station,,0,106_04,51,,,106_041,22,22
+101,1,NORMAL_03_101_Return_07:05,Uhud battlefield,,1,101_04,41,,,101_041,2,2
+102,1,NORMAL_03_102_Go_15:25,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,3,27
+104,1,NORMAL_03_104_Return_18:35,Quba Mosque,,1,104_02,128,,,104_022,14,38
+107,1,NORMAL_03_107_Return_17:05,Quba Mosque,,1,107_04,132,,,107_042,8,32
+106,1,NORMAL_03_106_Return_08:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,5,5
+101,1,NORMAL_03_101_Go_12:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,19,19
+103,1,NORMAL_03_103_Return_12:20,Quba Mosque,,1,103_01,126,,,103_011,20,20
+103,1,NORMAL_03_103_Go_07:25,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_041,3,3
+102,1,NORMAL_03_102_Return_11:45,Quba Mosque,,1,102_04,124,,,102_041,16,16
+104,1,NORMAL_03_104_Go_10:45,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_041,13,13
+105,1,NORMAL_03_105_Go_09:00,Uhud battlefield,,1,105_02,130,,,105_021,5,5
+102,1,NORMAL_03_102_Go_10:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,13,13
+105,1,NORMAL_03_105_Go_11:45,Uhud battlefield,,1,105_01,130,,,105_011,11,11
+106,1,NORMAL_03_106_Go_08:20,Railway Station,,0,106_01,51,,,106_011,8,8
+106,1,NORMAL_03_106_Return_20:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_022,19,43
+104,1,NORMAL_03_104_Return_11:40,Quba Mosque,,1,104_01,128,,,104_011,18,18
+102,1,NORMAL_03_102_Go_06:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,1,1
+101,1,NORMAL_03_101_Go_08:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_021,7,7
+103,1,NORMAL_03_103_Go_17:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,11,35
+105,1,NORMAL_03_105_Return_13:25,Quba Mosque,,1,105_02,129,,,105_021,14,14
+107,1,NORMAL_03_107_Go_16:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_012,10,33
+106,1,NORMAL_03_106_Go_07:30,Railway Station,,0,106_03,51,,,106_031,4,4
+107,1,NORMAL_03_107_Go_14:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,3,27
+104,1,NORMAL_03_104_Go_21:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,21,45
+106,1,NORMAL_03_106_Return_14:05,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,23,23
+106,1,NORMAL_03_106_Return_10:15,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,13,13
+103,1,NORMAL_03_103_Return_06:20,Quba Mosque,,1,103_01,126,,,103_011,2,2
+104,1,NORMAL_03_104_Return_07:05,Quba Mosque,,1,104_04,128,,,104_041,2,2
+107,1,NORMAL_03_107_Go_08:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,7,7
+106,1,NORMAL_03_106_Go_17:40,Railway Station,,0,106_01,51,,,106_012,12,36
+104,1,NORMAL_03_104_Return_20:35,Quba Mosque,,1,104_02,128,,,104_022,20,44
+107,1,NORMAL_03_107_Go_08:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,7,7
+106,1,NORMAL_03_106_Return_14:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,1,25
+104,1,NORMAL_03_104_Go_17:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,11,35
+107,1,NORMAL_03_107_Return_09:40,Quba Mosque,,1,107_01,132,,,107_011,12,12
+101,1,NORMAL_03_101_Go_21:50,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,23,47
+106,1,NORMAL_03_106_Go_14:20,Railway Station,,0,106_01,51,,,106_012,2,26
+105,1,NORMAL_03_105_Return_14:40,Quba Mosque,,1,105_03,129,,,105_031,16,16
+104,1,NORMAL_03_104_Return_17:05,Quba Mosque,,1,104_04,128,,,104_042,8,32
+107,1,NORMAL_03_107_Return_21:00,Quba Mosque,,1,107_01,132,,,107_012,23,46
+101,1,NORMAL_03_101_Return_13:30,Uhud battlefield,,1,101_03,41,,,101_031,22,22
+106,1,NORMAL_03_106_Go_12:25,Railway Station,,0,106_04,51,,,106_041,18,18
+102,1,NORMAL_03_102_Return_09:55,Quba Mosque,,1,102_02,124,,,102_021,12,12
+105,1,NORMAL_03_105_Return_09:25,Quba Mosque,,1,105_02,129,,,105_021,6,6
+106,1,NORMAL_03_106_Go_15:00,Railway Station,,0,106_01,51,,,106_012,4,28
+105,1,NORMAL_03_105_Go_15:00,Uhud battlefield,,1,105_02,130,,,105_022,1,17
+103,1,NORMAL_03_103_Go_18:40,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,15,39
+103,1,NORMAL_03_103_Go_10:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_031,13,13
+103,1,NORMAL_03_103_Go_11:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,17,17
+103,1,NORMAL_03_103_Return_17:55,Quba Mosque,,1,103_02,126,,,103_022,12,36
+103,1,NORMAL_03_103_Return_21:05,Quba Mosque,,1,103_04,126,,,103_042,20,44
+107,1,NORMAL_03_107_Go_07:35,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,5,5
+102,1,NORMAL_03_102_Go_12:55,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,21,21
+105,1,NORMAL_03_105_Go_18:45,Uhud battlefield,,1,105_01,130,,,105_012,9,25
+103,1,NORMAL_03_103_Return_16:20,Quba Mosque,,1,103_01,126,,,103_012,8,32
+106,1,NORMAL_03_106_Return_07:50,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_031,5,5
+106,1,NORMAL_03_106_Go_17:45,Railway Station,,0,106_04,51,,,106_042,10,34
+102,1,NORMAL_03_102_Go_18:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,13,37
+107,1,NORMAL_03_107_Go_12:05,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,17,17
+104,1,NORMAL_03_104_Return_15:05,Quba Mosque,,1,104_04,128,,,104_042,2,26
+101,1,NORMAL_03_101_Return_12:20,Uhud battlefield,,1,101_01,41,,,101_011,20,20
+101,1,NORMAL_03_101_Go_12:30,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,19,19
+107,1,NORMAL_03_107_Go_19:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,15,39
+101,1,NORMAL_03_101_Return_13:40,Uhud battlefield,,1,101_01,41,,,101_011,24,24
+102,1,NORMAL_03_102_Return_19:30,Quba Mosque,,1,102_03,124,,,102_032,16,40
+102,1,NORMAL_03_102_Return_20:10,Quba Mosque,,1,102_03,124,,,102_032,18,42
+106,1,NORMAL_03_106_Go_11:15,Railway Station,,0,106_02,51,,,106_021,16,16
+104,1,NORMAL_03_104_Return_07:40,Quba Mosque,,1,104_01,128,,,104_011,6,6
+101,1,NORMAL_03_101_Return_10:35,Uhud battlefield,,1,101_02,41,,,101_021,14,14
+102,1,NORMAL_03_102_Return_18:50,Quba Mosque,,1,102_03,124,,,102_032,14,38
+105,1,NORMAL_03_105_Go_19:45,Uhud battlefield,,1,105_01,130,,,105_012,11,27
+102,1,NORMAL_03_102_Return_21:05,Quba Mosque,,1,102_04,124,,,102_042,20,44
+103,1,NORMAL_03_103_Return_14:25,Quba Mosque,,1,103_04,126,,,103_041,24,24
+104,1,NORMAL_03_104_Return_13:15,Quba Mosque,,1,104_02,128,,,104_021,22,22
+105,1,NORMAL_03_105_Return_17:25,Quba Mosque,,1,105_02,129,,,105_022,6,22
+103,1,NORMAL_03_103_Return_21:15,Quba Mosque,,1,103_02,126,,,103_022,22,46
+101,1,NORMAL_03_101_Go_17:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,9,33
+101,1,NORMAL_03_101_Go_16:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,7,31
+101,1,NORMAL_03_101_Go_14:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_041,23,23
+104,1,NORMAL_03_104_Return_16:25,Quba Mosque,,1,104_04,128,,,104_042,6,30
+107,1,NORMAL_03_107_Return_19:45,Quba Mosque,,1,107_04,132,,,107_042,16,40
+102,1,NORMAL_03_102_Go_16:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,7,31
+103,1,NORMAL_03_103_Return_08:20,Quba Mosque,,1,103_01,126,,,103_011,8,8
+106,1,NORMAL_03_106_Go_06:20,Railway Station,,0,106_01,51,,,106_011,2,2
+107,1,NORMAL_03_107_Return_07:15,Quba Mosque,,1,107_02,132,,,107_021,4,4
+103,1,NORMAL_03_103_Go_12:15,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,19,19
+106,1,NORMAL_03_106_Return_10:40,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,15,15
+107,1,NORMAL_03_107_Return_09:45,Quba Mosque,,1,107_04,132,,,107_041,10,10
+102,1,NORMAL_03_102_Return_16:10,Quba Mosque,,1,102_03,124,,,102_032,6,30
+105,1,NORMAL_03_105_Return_20:25,Quba Mosque,,1,105_02,129,,,105_022,12,28
+102,1,NORMAL_03_102_Go_16:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,7,31
+101,1,NORMAL_03_101_Return_17:30,Uhud battlefield,,1,101_03,41,,,101_032,10,34
+104,1,NORMAL_03_104_Return_20:50,Quba Mosque,,1,104_03,128,,,104_032,20,44
+104,1,NORMAL_03_104_Return_21:45,Quba Mosque,,1,104_04,128,,,104_042,22,46
+102,1,NORMAL_03_102_Go_16:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,5,29
+101,1,NORMAL_03_101_Return_07:00,Uhud battlefield,,1,101_01,41,,,101_011,4,4
+101,1,NORMAL_03_101_Return_11:45,Uhud battlefield,,1,101_04,41,,,101_041,16,16
+105,1,NORMAL_03_105_Return_14:10,Quba Mosque,,1,105_01,129,,,105_011,16,16
+105,1,NORMAL_03_105_Return_14:25,Quba Mosque,,1,105_02,129,,,105_021,16,16
+106,1,NORMAL_03_106_Go_14:25,Railway Station,,0,106_04,51,,,106_041,24,24
+101,1,NORMAL_03_101_Go_09:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,11,11
+104,1,NORMAL_03_104_Return_13:30,Quba Mosque,,1,104_03,128,,,104_031,22,22
+102,1,NORMAL_03_102_Go_07:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_021,5,5
+107,1,NORMAL_03_107_Go_15:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,3,27
+107,1,NORMAL_03_107_Go_07:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,3,3
+103,1,NORMAL_03_103_Go_09:35,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,11,11
+104,1,NORMAL_03_104_Go_08:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_031,7,7
+102,1,NORMAL_03_102_Go_18:15,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,13,37
+103,1,NORMAL_03_103_Go_12:55,AL Masjid Al-nabawi (Manakha Square),,1,103_02,125,,,103_021,21,21
+105,1,NORMAL_03_105_Go_16:15,Uhud battlefield,,1,105_03,130,,,105_032,3,19
+107,1,NORMAL_03_107_Return_07:40,Quba Mosque,,1,107_01,132,,,107_011,6,6
+105,1,NORMAL_03_105_Return_13:40,Quba Mosque,,1,105_03,129,,,105_031,14,14
+101,1,NORMAL_03_101_Return_21:05,Uhud battlefield,,1,101_04,41,,,101_042,20,44
+102,1,NORMAL_03_102_Return_13:40,Quba Mosque,,1,102_01,124,,,102_011,24,24
+101,1,NORMAL_03_101_Return_18:50,Uhud battlefield,,1,101_03,41,,,101_032,14,38
+104,1,NORMAL_03_104_Go_06:15,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,1,1
+101,1,NORMAL_03_101_Go_20:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_012,21,45
+102,1,NORMAL_03_102_Return_11:00,Quba Mosque,,1,102_01,124,,,102_011,16,16
+103,1,NORMAL_03_103_Return_07:15,Quba Mosque,,1,103_02,126,,,103_021,4,4
+101,1,NORMAL_03_101_Return_06:35,Uhud battlefield,,1,101_02,41,,,101_021,2,2
+107,1,NORMAL_03_107_Return_09:30,Quba Mosque,,1,107_03,132,,,107_031,10,10
+104,1,NORMAL_03_104_Return_18:50,Quba Mosque,,1,104_03,128,,,104_032,14,38
+106,1,NORMAL_03_106_Go_21:30,Railway Station,,0,106_03,51,,,106_032,22,46
+107,1,NORMAL_03_107_Go_21:50,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,23,47
+104,1,NORMAL_03_104_Return_15:40,Quba Mosque,,1,104_01,128,,,104_012,6,30
+105,1,NORMAL_03_105_Go_20:45,Uhud battlefield,,1,105_01,130,,,105_012,13,29
+106,1,NORMAL_03_106_Return_17:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,9,33
+107,1,NORMAL_03_107_Go_16:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_022,9,33
+102,1,NORMAL_03_102_Go_16:45,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_042,7,31
+107,1,NORMAL_03_107_Return_21:45,Quba Mosque,,1,107_04,132,,,107_042,22,46
+105,1,NORMAL_03_105_Return_22:40,Quba Mosque,,1,105_03,129,,,105_032,16,32
+101,1,NORMAL_03_101_Go_11:20,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,17,17
+106,1,NORMAL_03_106_Return_15:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,5,29
+105,1,NORMAL_03_105_Go_20:15,Uhud battlefield,,1,105_03,130,,,105_032,11,27
+103,1,NORMAL_03_103_Go_15:20,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_012,5,29
+105,1,NORMAL_03_105_Go_11:00,Uhud battlefield,,1,105_02,130,,,105_021,9,9
+103,1,NORMAL_03_103_Return_13:15,Quba Mosque,,1,103_02,126,,,103_021,22,22
+101,1,NORMAL_03_101_Go_09:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,9,9
+101,1,NORMAL_03_101_Go_21:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_032,21,45
+107,1,NORMAL_03_107_Go_13:20,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,23,23
+104,1,NORMAL_03_104_Go_19:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_022,17,41
+103,1,NORMAL_03_103_Go_19:50,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,17,41
+107,1,NORMAL_03_107_Return_13:45,Quba Mosque,,1,107_04,132,,,107_041,22,22
+103,1,NORMAL_03_103_Go_15:10,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,3,27
+104,1,NORMAL_03_104_Go_07:35,AL Masjid Al-nabawi (AL Salam Gate),,1,104_02,127,,,104_021,5,5
+101,1,NORMAL_03_101_Return_14:10,Uhud battlefield,,1,101_03,41,,,101_031,24,24
+106,1,NORMAL_03_106_Go_15:15,Railway Station,,0,106_02,51,,,106_022,4,28
+103,1,NORMAL_03_103_Return_12:25,Quba Mosque,,1,103_04,126,,,103_041,18,18
+105,1,NORMAL_03_105_Return_17:10,Quba Mosque,,1,105_01,129,,,105_012,6,22
+104,1,NORMAL_03_104_Return_06:35,Quba Mosque,,1,104_02,128,,,104_021,2,2
+105,1,NORMAL_03_105_Return_07:25,Quba Mosque,,1,105_02,129,,,105_021,2,2
+103,1,NORMAL_03_103_Return_13:45,Quba Mosque,,1,103_04,126,,,103_041,22,22
+104,1,NORMAL_03_104_Go_17:10,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,9,33
+103,1,NORMAL_03_103_Go_18:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,13,37
+107,1,NORMAL_03_107_Go_10:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_041,13,13
+106,1,NORMAL_03_106_Return_13:35,AL Masjid Al-nabawi (Clock Roundabout),,1,106_02,50,,,106_021,23,23
+102,1,NORMAL_03_102_Go_21:20,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,23,47
+107,1,NORMAL_03_107_Return_13:40,Quba Mosque,,1,107_01,132,,,107_012,1,24
+107,1,NORMAL_03_107_Return_15:40,Quba Mosque,,1,107_01,132,,,107_012,7,30
+107,1,NORMAL_03_107_Go_17:10,AL Masjid Al-nabawi (Clock Roundabout),,1,107_03,131,,,107_032,9,33
+104,1,NORMAL_03_104_Return_08:50,Quba Mosque,,1,104_03,128,,,104_031,8,8
+105,1,NORMAL_03_105_Return_20:40,Quba Mosque,,1,105_03,129,,,105_032,12,28
+103,1,NORMAL_03_103_Go_14:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,1,25
+107,1,NORMAL_03_107_Go_20:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,19,43
+104,1,NORMAL_03_104_Go_17:25,AL Masjid Al-nabawi (AL Salam Gate),,1,104_04,127,,,104_042,9,33
+107,1,NORMAL_03_107_Go_08:55,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,9,9
+106,1,NORMAL_03_106_Go_13:00,Railway Station,,0,106_01,51,,,106_011,22,22
+106,1,NORMAL_03_106_Go_10:20,Railway Station,,0,106_01,51,,,106_011,14,14
+105,1,NORMAL_03_105_Return_15:25,Quba Mosque,,1,105_02,129,,,105_022,2,18
+101,1,NORMAL_03_101_Return_12:10,Uhud battlefield,,1,101_03,41,,,101_031,18,18
+107,1,NORMAL_03_107_Return_20:25,Quba Mosque,,1,107_04,132,,,107_042,18,42
+104,1,NORMAL_03_104_Return_10:20,Quba Mosque,,1,104_01,128,,,104_011,14,14
+107,1,NORMAL_03_107_Return_17:00,Quba Mosque,,1,107_01,132,,,107_012,11,34
+107,1,NORMAL_03_107_Go_10:15,AL Masjid Al-nabawi (Clock Roundabout),,1,107_02,131,,,107_021,13,13
+107,1,NORMAL_03_107_Return_12:50,Quba Mosque,,1,107_03,132,,,107_031,20,20
+102,1,NORMAL_03_102_Go_18:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,13,37
+101,1,NORMAL_03_101_Return_15:40,Uhud battlefield,,1,101_01,41,,,101_012,6,30
+102,1,NORMAL_03_102_Go_07:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,5,5
+102,1,NORMAL_03_102_Return_15:00,Quba Mosque,,1,102_01,124,,,102_012,4,28
+106,1,NORMAL_03_106_Go_16:35,Railway Station,,0,106_02,51,,,106_022,8,32
+102,1,NORMAL_03_102_Return_21:15,Quba Mosque,,1,102_02,124,,,102_022,22,46
+106,1,NORMAL_03_106_Go_07:00,Railway Station,,0,106_01,51,,,106_011,4,4
+103,1,NORMAL_03_103_Return_18:25,Quba Mosque,,1,103_04,126,,,103_042,12,36
+107,1,NORMAL_03_107_Go_14:45,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,1,25
+106,1,NORMAL_03_106_Return_06:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,1,1
+102,1,NORMAL_03_102_Return_21:45,Quba Mosque,,1,102_04,124,,,102_042,22,46
+106,1,NORMAL_03_106_Return_16:45,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_042,7,31
+107,1,NORMAL_03_107_Return_22:10,Quba Mosque,,1,107_03,132,,,107_032,24,48
+103,1,NORMAL_03_103_Return_19:45,Quba Mosque,,1,103_04,126,,,103_042,16,40
+101,1,NORMAL_03_101_Return_09:15,Uhud battlefield,,1,101_02,41,,,101_021,10,10
+103,1,NORMAL_03_103_Return_21:00,Quba Mosque,,1,103_01,126,,,103_012,22,46
+106,1,NORMAL_03_106_Return_09:25,AL Masjid Al-nabawi (Clock Roundabout),,1,106_04,50,,,106_041,9,9
+101,1,NORMAL_03_101_Return_22:25,Uhud battlefield,,1,101_04,41,,,101_042,24,48
+101,1,NORMAL_03_101_Go_20:05,AL Masjid Al-nabawi (Clock Roundabout),,0,101_04,102,,,101_042,17,41
+106,1,NORMAL_03_106_Go_19:55,Railway Station,,0,106_02,51,,,106_022,18,42
+104,1,NORMAL_03_104_Return_12:10,Quba Mosque,,1,104_03,128,,,104_031,18,18
+101,1,NORMAL_03_101_Return_08:25,Uhud battlefield,,1,101_04,41,,,101_041,6,6
+102,1,NORMAL_03_102_Return_22:25,Quba Mosque,,1,102_04,124,,,102_042,24,48
+101,1,NORMAL_03_101_Return_14:50,Uhud battlefield,,1,101_03,41,,,101_032,2,26
+102,1,NORMAL_03_102_Go_20:30,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_032,19,43
+104,1,NORMAL_03_104_Go_21:20,AL Masjid Al-nabawi (AL Salam Gate),,1,104_01,127,,,104_012,23,47
+106,1,NORMAL_03_106_Go_10:10,Railway Station,,0,106_03,51,,,106_031,12,12
+102,1,NORMAL_03_102_Return_12:20,Quba Mosque,,1,102_01,124,,,102_011,20,20
+101,1,NORMAL_03_101_Go_06:00,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,1,1
+107,1,NORMAL_03_107_Return_06:50,Quba Mosque,,1,107_03,132,,,107_031,2,2
+103,1,NORMAL_03_103_Return_13:05,Quba Mosque,,1,103_04,126,,,103_041,20,20
+107,1,NORMAL_03_107_Return_20:10,Quba Mosque,,1,107_03,132,,,107_032,18,42
+104,1,NORMAL_03_104_Go_19:50,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,17,41
+102,1,NORMAL_03_102_Return_14:10,Quba Mosque,,1,102_03,124,,,102_031,24,24
+107,1,NORMAL_03_107_Return_15:45,Quba Mosque,,1,107_04,132,,,107_042,4,28
+101,1,NORMAL_03_101_Go_14:15,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,1,25
+103,1,NORMAL_03_103_Return_11:15,Quba Mosque,,1,103_02,126,,,103_021,16,16
+105,1,NORMAL_03_105_Go_15:15,Uhud battlefield,,1,105_03,130,,,105_032,1,17
+104,1,NORMAL_03_104_Return_11:15,Quba Mosque,,1,104_02,128,,,104_021,16,16
+107,1,NORMAL_03_107_Return_06:20,Quba Mosque,,1,107_01,132,,,107_011,2,2
+103,1,NORMAL_03_103_Go_14:45,AL Masjid Al-nabawi (Manakha Square),,1,103_04,125,,,103_042,1,25
+101,1,NORMAL_03_101_Go_14:55,AL Masjid Al-nabawi (Clock Roundabout),,0,101_02,102,,,101_022,3,27
+103,1,NORMAL_03_103_Return_10:10,Quba Mosque,,1,103_03,126,,,103_031,12,12
+107,1,NORMAL_03_107_Return_18:10,Quba Mosque,,1,107_03,132,,,107_032,12,36
+102,1,NORMAL_03_102_Go_16:40,AL Masjid Al-nabawi (AL Baqe),,1,102_01,111,,,102_012,9,33
+103,1,NORMAL_03_103_Go_18:30,AL Masjid Al-nabawi (Manakha Square),,1,103_03,125,,,103_032,13,37
+107,1,NORMAL_03_107_Return_11:00,Quba Mosque,,1,107_01,132,,,107_011,16,16
+106,1,NORMAL_03_106_Return_07:20,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_011,5,5
+102,1,NORMAL_03_102_Go_13:50,AL Masjid Al-nabawi (AL Baqe),,1,102_03,111,,,102_031,23,23
+105,1,NORMAL_03_105_Return_18:10,Quba Mosque,,1,105_01,129,,,105_012,8,24
+103,1,NORMAL_03_103_Go_08:00,AL Masjid Al-nabawi (Manakha Square),,1,103_01,125,,,103_011,7,7
+106,1,NORMAL_03_106_Return_20:00,AL Masjid Al-nabawi (Clock Roundabout),,1,106_01,50,,,106_012,19,43
+107,1,NORMAL_03_107_Go_21:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,21,45
+105,1,NORMAL_03_105_Return_10:25,Quba Mosque,,1,105_02,129,,,105_021,8,8
+107,1,NORMAL_03_107_Return_12:35,Quba Mosque,,1,107_02,132,,,107_021,20,20
+102,1,NORMAL_03_102_Return_14:20,Quba Mosque,,1,102_01,124,,,102_012,2,26
+106,1,NORMAL_03_106_Return_20:30,AL Masjid Al-nabawi (Clock Roundabout),,1,106_03,50,,,106_032,19,43
+101,1,NORMAL_03_101_Go_12:40,AL Masjid Al-nabawi (Clock Roundabout),,0,101_01,102,,,101_011,21,21
+105,1,NORMAL_03_105_Return_22:10,Quba Mosque,,1,105_01,129,,,105_012,16,32
+105,1,NORMAL_03_105_Go_07:45,Uhud battlefield,,1,105_01,130,,,105_011,3,3
+104,1,NORMAL_03_104_Go_14:30,AL Masjid Al-nabawi (AL Salam Gate),,1,104_03,127,,,104_032,1,25
+106,1,NORMAL_03_106_Go_09:40,Railway Station,,0,106_01,51,,,106_011,12,12
+102,1,NORMAL_03_102_Go_17:35,AL Masjid Al-nabawi (AL Baqe),,1,102_02,111,,,102_022,11,35
+107,1,NORMAL_03_107_Go_12:40,AL Masjid Al-nabawi (Clock Roundabout),,1,107_01,131,,,107_011,21,21
+105,1,NORMAL_03_105_Return_07:10,Quba Mosque,,1,105_01,129,,,105_011,2,2
+102,1,NORMAL_03_102_Return_07:00,Quba Mosque,,1,102_01,124,,,102_011,4,4
+106,1,NORMAL_03_106_Go_08:50,Railway Station,,0,106_03,51,,,106_031,8,8
+107,1,NORMAL_03_107_Go_19:25,AL Masjid Al-nabawi (Clock Roundabout),,1,107_04,131,,,107_042,15,39
+107,1,NORMAL_03_107_Return_07:00,Quba Mosque,,1,107_01,132,,,107_011,4,4
+102,1,NORMAL_03_102_Return_21:00,Quba Mosque,,1,102_01,124,,,102_012,22,46
+101,1,NORMAL_03_101_Go_13:10,AL Masjid Al-nabawi (Clock Roundabout),,0,101_03,102,,,101_031,21,21
+102,1,NORMAL_03_102_Return_09:45,Quba Mosque,,1,102_04,124,,,102_041,10,10
+104,1,NORMAL_03_104_Return_07:00,Quba Mosque,,1,104_01,128,,,104_011,4,4
+105,1,NORMAL_03_105_Go_21:15,Uhud battlefield,,1,105_03,130,,,105_032,13,29
+101,1,NORMAL_03_101_Return_17:00,Uhud battlefield,,1,101_01,41,,,101_012,10,34
+102,1,NORMAL_03_102_Go_14:05,AL Masjid Al-nabawi (AL Baqe),,1,102_04,111,,,102_041,23,23
+102,1,NORMAL_03_102_Return_13:45,Quba Mosque,,1,102_04,124,,,102_041,22,22

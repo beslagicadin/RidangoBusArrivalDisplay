@@ -1,0 +1,39 @@
+﻿trans_id,lang,translation,file_name,field_name
+101_Uhud battlefield,ar-SA,موقع غزوة أحد,trips.txt,trip_headsign
+102_Uhud battlefield,ar-SA,موقع غزوة أحد,trips.txt,trip_headsign
+102_Quba Mosque,ar-SA,مسجد قباء,trips.txt,trip_headsign
+103_AL Masjid Al-nabawi (AL Baqe),ar-SA,(المسجد النبوي (البقيع,trips.txt,trip_headsign
+101_AL Masjid Al-nabawi (Clock Roundabout),ar-SA,(المسجد النبوي (دوار الساعة,trips.txt,trip_headsign
+103_Quba Mosque,ar-SA,مسجد قباء,trips.txt,trip_headsign
+104_AL Masjid Al-nabawi (Manakha Square),ar-SA,(المسجد النبوي (ساحة المناخة,trips.txt,trip_headsign
+104_Quba Mosque,ar-SA,مسجد قباء,trips.txt,trip_headsign
+105_AL Masjid Al-nabawi (AL Salam Gate),ar-SA,(المسجد النبوي (باب السلام,trips.txt,trip_headsign
+105_Quba Mosque,ar-SA,مسجد قباء,trips.txt,trip_headsign
+106_Railway Station,ar-SA,محطة قطار الحرمين السريع,trips.txt,trip_headsign
+106_AL Masjid Al-nabawi (Clock Roundabout),ar-SA,(المسجد النبوي (دوار الساعة,trips.txt,trip_headsign
+2001,ar-SA,(المسجد النبوي (دوار الساعة,stops.txt,stop_name
+2002,ar-SA,موقع غزوة أحد,stops.txt,stop_name
+2003,ar-SA,مسجد القبلتين,stops.txt,stop_name
+2004,ar-SA,موقع غزوة الخندق,stops.txt,stop_name
+2005,ar-SA,مسجد قباء,stops.txt,stop_name
+2006,ar-SA,(المسجد النبوي (البقيع,stops.txt,stop_name
+2007,ar-SA,مسجد قباء,stops.txt,stop_name
+2008,ar-SA,(المسجد النبوي (ساحة المناخة,stops.txt,stop_name
+2009,ar-SA,مسجد قباء,stops.txt,stop_name
+2010,ar-SA,(المسجد النبوي (باب السلام,stops.txt,stop_name
+2011,ar-SA,مسجد قباء,stops.txt,stop_name
+2012,ar-SA,محطة قطار الحرمين السريع,stops.txt,stop_name
+101,ar-SA,١٠١,routes.txt,route_long_name
+102,ar-SA,١٠٢,routes.txt,route_long_name
+103,ar-SA,١٠٣,routes.txt,route_long_name
+104,ar-SA,١٠٤,routes.txt,route_long_name
+105,ar-SA,١٠٥,routes.txt,route_long_name
+106,ar-SA,١٠٦,routes.txt,route_long_name
+107,ar-SA,١٠٧,routes.txt,route_long_name
+101,ar-SA,١٠١,routes.txt,route_short_name
+102,ar-SA,١٠٢,routes.txt,route_short_name
+103,ar-SA,١٠٣,routes.txt,route_short_name
+104,ar-SA,١٠٤,routes.txt,route_short_name
+105,ar-SA,١٠٥,routes.txt,route_short_name
+106,ar-SA,١٠٦,routes.txt,route_short_name
+107,ar-SA,١٠٧,routes.txt,route_short_name

@@ -1,0 +1,8 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+101,Short name,101,,,3,,964E00,000000
+102,Short name,102,,,3,,4F054F,000000
+103,Short name,103,,,3,,666666,000000
+104,Short name,104,,,3,,00E5E5,000000
+105,Short name,105,,,3,,FFA500,000000
+106,Short name,106,,,3,,0000FF,000000
+107,Short name,107,,,3,,9902AA,9902AA

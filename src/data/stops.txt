@@ -1,0 +1,10 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+2,2001,AL Masjid Al-nabawi (Clock Roundabout),,24.47141,39.61112,,,,,,
+3,2002,Uhud battlefield,,24.50056,39.6115,,,,,,
+4,2003,Al Quiblatain Mosque,,24.48463,39.57871,,,,,,
+5,2004,The Trench Battlefield,,24.47642,39.59529,,,,,,
+7,2006,AL Masjid Al-nabawi (AL Baqe),,24.46554,39.61344,,,,,,
+9,2008,AL Masjid Al-nabawi (Manakha Square),,24.46525,39.60744,,,,,,
+10,2009,Quba Mosque,,24.43862,39.61662,,,,,,
+11,2010,AL Masjid Al-nabawi (AL Salam Gate),,24.4673,39.60658,,,,,,
+13,2012,Railway Station,,24.47462,39.69984,,,,,,
