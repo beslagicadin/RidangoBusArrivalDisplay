@@ -81,3 +81,7 @@ public class Main {
     <p>The application uses Java's built-in logging framework. Logs are displayed in the console, showing information and errors encountered during execution.</p>
     <h2>Acknowledgements</h2>
     <p>Data files structure is inspired by the <a href="https://developers.google.com/transit/gtfs">GTFS (General Transit Feed Specification)</a> standard.</p>
+    <h2>Contributing</h2>
+    <p>Contributions are welcome. Please open an issue first to discuss what you would like to change, then submit a pull request with a clear description of your changes.</p>
+    <h2>License</h2>
+    <p>This project is licensed under the MIT License.</p>
