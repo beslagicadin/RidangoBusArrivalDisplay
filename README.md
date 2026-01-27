@@ -1,6 +1,7 @@
 <h1>BusArrivalDisplay</h1>
     <p>The BusArrivalDisplay is a plain Java application designed to display the next bus arrivals for a specific stop.<br>
-    It utilizes Lombok for boilerplate code reduction and reads data from text files to determine the arrival times of buses.
+    It utilizes Lombok for boilerplate code reduction and reads data from text files to determine the arrival times of buses.<br>
+    Compatible with any GTFS-formatted dataset.
     </p>
     <h2>Features</h2>
     <ul>
