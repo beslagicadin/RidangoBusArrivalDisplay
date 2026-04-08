@@ -85,4 +85,4 @@ public class Main {
     <h2>Contributing</h2>
     <p>Contributions are welcome. Please open an issue first to discuss what you would like to change, then submit a pull request with a clear description of your changes.</p>
     <h2>License</h2>
-    <p>This project is licensed under the MIT License.</p>
+    <p>This software is all rights reserved. Use, copying, modification, or distribution requires prior written permission from the author. See the <a href="LICENSE">LICENSE</a> file for full terms or contact <a href="mailto:beslagicadin@gmail.com">beslagicadin@gmail.com</a> to request permission.</p>
